@@ -25,7 +25,7 @@
 rm(list = ls())
 getwd()
 # set WD to _coding_sample folder
-setwd("/Users/nickniers/Desktop/Uni/predoc_application/_coding_sample")
+setwd("/Users/nickniers/Desktop/Uni/predoc_application/_coding_sample/PRE_DOC")
 
 # loading required packages
 library(tidyverse)
