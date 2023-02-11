@@ -43,7 +43,8 @@ library(reshape2)
 library(rayshader)
 library(grid)
 library(png) 
-
+# remotes::install_github("pierreroudier/hillshader")
+library(hillshader)
 
 ################################################################################
 
@@ -51,7 +52,7 @@ library(png)
 
 ### 1.1 Number of employees in finance and insurance positions by borough
 
-# read data and limit to finance and insurance sector + three relevant boroughs
+# read employees data and limit to finance and insurance sector + three relevant boroughs
 employees = read.csv("RAW/employees.csv")
 employees = rbind(employees[employees$Borough == c("City of London"),], employees[employees$Borough == c("Tower Hamlets"),],  employees[employees$Borough == c("Westminster"),])
 employees = employees[employees$Sector == "Financial and insurance activities",]
@@ -90,7 +91,7 @@ ggsave(filename="employees.jpg", plot=employees_plot, device="jpg",
 
 ### 1.2 Relevance of Tower Hamlets as measured by space occupied by offices
 
-# read data and limit to "lower super output areas" (LSOA)
+# read floorspace data and limit to "lower super output areas" (LSOA)
 fs = read_csv("RAW/floorspace.csv")
 fs = fs[fs$geography == "LSOA",c(3:15)]
 
@@ -135,7 +136,12 @@ ylim = ggplot_build(backround)$layout$panel_scales_y[[1]]$range$range
 ggsave("plots/backround.png", width = diff(xlim)/10, height = diff(ylim)/10, units = "px", limitsize = FALSE)
 backround = readPNG("plots/backround.png")  
 
+
+# prepare final ggplot and subsequent 3D plot for 11 years 
+# !depending on the specification of the used PC this process is time consuming
+# !all final visualizations can be found in the RESULTS folder 
 for (i in 1:11){
+  # plot ratio (office floorspace / total area) * 100 with 2D plot
   LSOA_plot <- ggplot() +
     background_image(backround)+
     xlim(xlim[1],xlim[2]) + # x-axis Mapping
@@ -150,19 +156,32 @@ for (i in 1:11){
           axis.text.y=element_blank(), axis.title.y=element_blank(),
           axis.ticks=element_blank(), 
           panel.background = element_blank())
-  
-  
+  # plot result
   LSOA_plot
 
-  
+  # transfrom into 3D plot
   plot = plot_gg(LSOA_plot, multicore = TRUE, width = 7, height = 7,
         scale = 400, windowsize = c(2000, 2000), zoom = 0.5, phi = 60, theta = 45,
         solid = FALSE, sunangle = 200, solidcolor = "white", solidlinecolor = "white", background = "white",
         triangulate = TRUE
         )
   
-  
+  # render result and safe plot
   render_camera(theta = 45, phi=60,zoom= 0.22, fov= 130)
   render_snapshot(paste("plots/LSOA/fs_", i, ".png"), webshot = TRUE, width = 5000, heigth = 5000, clear = TRUE)
 }
+
+################################################################################
+
+# read uber data and borough shapefile
+uber = read_csv("RAW/uber.csv")
+boroughs = st_read("RAW/shapefiles/boundaries_fixed_frame.shp", stringsAsFactors = FALSE)
+
+# rename variables to obtain common ID variable and merge dataset with shapefile
+names(uber)[4] = "ID"
+names(boroughs)[11] = "ID"
+uber = merge(boroughs, uber, by = "ID", all.x = TRUE)
+
+imported_raster= raster("/Users/nickniers/Desktop/Uni/master_EME/EC427 - labor/Essay/__LCY/arcgis/london_raw/raw2.tif")
+hs = hillshader(imported_raster)
 

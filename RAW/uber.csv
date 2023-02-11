@@ -1,0 +1,674 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"891","Newham, 00BB (891)","1","Newham, 00BB (1)","1/6/2019 - 31/8/2019, Every day, Daily Average",1233,856,1775
+"891","Newham, 00BB (891)","2","Newham, 00BB (2)","1/6/2019 - 31/8/2019, Every day, Daily Average",358,187,681
+"891","Newham, 00BB (891)","3","Newham, 00BB (3)","1/6/2019 - 31/8/2019, Every day, Daily Average",269,99,724
+"891","Newham, 00BB (891)","4","Newham, 00BB (4)","1/6/2019 - 31/8/2019, Every day, Daily Average",295,148,587
+"891","Newham, 00BB (891)","5","Lambeth, 00AY (5)","1/6/2019 - 31/8/2019, Every day, Daily Average",2456,2035,2963
+"891","Newham, 00BB (891)","6","Lambeth, 00AY (6)","1/6/2019 - 31/8/2019, Every day, Daily Average",2579,2117,3140
+"891","Newham, 00BB (891)","9","Southwark, 00BE (9)","1/6/2019 - 31/8/2019, Every day, Daily Average",2064,1763,2415
+"891","Newham, 00BB (891)","10","Newham, 00BB (10)","1/6/2019 - 31/8/2019, Every day, Daily Average",684,476,981
+"891","Newham, 00BB (891)","11","Redbridge, 00BC (11)","1/6/2019 - 31/8/2019, Every day, Daily Average",1633,1278,2085
+"891","Newham, 00BB (891)","14","Redbridge, 00BC (14)","1/6/2019 - 31/8/2019, Every day, Daily Average",1324,1042,1681
+"891","Newham, 00BB (891)","15","Wandsworth, 00BJ (15)","1/6/2019 - 31/8/2019, Every day, Daily Average",3746,3096,4531
+"891","Newham, 00BB (891)","16","Southwark, 00BE (16)","1/6/2019 - 31/8/2019, Every day, Daily Average",2254,1942,2615
+"891","Newham, 00BB (891)","17","Wandsworth, 00BJ (17)","1/6/2019 - 31/8/2019, Every day, Daily Average",3396,2724,4233
+"891","Newham, 00BB (891)","18","Westminster, 00BK (18)","1/6/2019 - 31/8/2019, Every day, Daily Average",3385,2685,4267
+"891","Newham, 00BB (891)","19","Westminster, 00BK (19)","1/6/2019 - 31/8/2019, Every day, Daily Average",3333,2657,4180
+"891","Newham, 00BB (891)","20","Westminster, 00BK (20)","1/6/2019 - 31/8/2019, Every day, Daily Average",3241,2627,3997
+"891","Newham, 00BB (891)","21","City of London, 00AA (21)","1/6/2019 - 31/8/2019, Every day, Daily Average",1522,1167,1983
+"891","Newham, 00BB (891)","22","Barking and Dagenham, 00AB (22)","1/6/2019 - 31/8/2019, Every day, Daily Average",1831,1433,2338
+"891","Newham, 00BB (891)","23","Barking and Dagenham, 00AB (23)","1/6/2019 - 31/8/2019, Every day, Daily Average",1665,1321,2097
+"891","Newham, 00BB (891)","25","Barking and Dagenham, 00AB (25)","1/6/2019 - 31/8/2019, Every day, Daily Average",1407,1147,1725
+"891","Newham, 00BB (891)","26","Barking and Dagenham, 00AB (26)","1/6/2019 - 31/8/2019, Every day, Daily Average",1424,1128,1796
+"891","Newham, 00BB (891)","27","Barking and Dagenham, 00AB (27)","1/6/2019 - 31/8/2019, Every day, Daily Average",1476,1060,2055
+"891","Newham, 00BB (891)","28","Barking and Dagenham, 00AB (28)","1/6/2019 - 31/8/2019, Every day, Daily Average",1297,996,1688
+"891","Newham, 00BB (891)","29","Barking and Dagenham, 00AB (29)","1/6/2019 - 31/8/2019, Every day, Daily Average",1206,952,1527
+"891","Newham, 00BB (891)","30","Barking and Dagenham, 00AB (30)","1/6/2019 - 31/8/2019, Every day, Daily Average",1458,1161,1830
+"891","Newham, 00BB (891)","31","Barking and Dagenham, 00AB (31)","1/6/2019 - 31/8/2019, Every day, Daily Average",1706,1199,2426
+"891","Newham, 00BB (891)","32","Barking and Dagenham, 00AB (32)","1/6/2019 - 31/8/2019, Every day, Daily Average",1231,894,1693
+"891","Newham, 00BB (891)","33","Barking and Dagenham, 00AB (33)","1/6/2019 - 31/8/2019, Every day, Daily Average",1092,786,1515
+"891","Newham, 00BB (891)","34","Barking and Dagenham, 00AB (34)","1/6/2019 - 31/8/2019, Every day, Daily Average",1249,937,1663
+"891","Newham, 00BB (891)","35","Barking and Dagenham, 00AB (35)","1/6/2019 - 31/8/2019, Every day, Daily Average",1455,990,2136
+"891","Newham, 00BB (891)","36","Barking and Dagenham, 00AB (36)","1/6/2019 - 31/8/2019, Every day, Daily Average",826,616,1105
+"891","Newham, 00BB (891)","37","Barking and Dagenham, 00AB (37)","1/6/2019 - 31/8/2019, Every day, Daily Average",1081,771,1514
+"891","Newham, 00BB (891)","38","Barking and Dagenham, 00AB (38)","1/6/2019 - 31/8/2019, Every day, Daily Average",940,687,1285
+"891","Newham, 00BB (891)","39","Barking and Dagenham, 00AB (39)","1/6/2019 - 31/8/2019, Every day, Daily Average",1059,774,1448
+"891","Newham, 00BB (891)","40","Barking and Dagenham, 00AB (40)","1/6/2019 - 31/8/2019, Every day, Daily Average",872,617,1230
+"891","Newham, 00BB (891)","41","Barking and Dagenham, 00AB (41)","1/6/2019 - 31/8/2019, Every day, Daily Average",1133,853,1503
+"891","Newham, 00BB (891)","43","Barnet, 00AC (43)","1/6/2019 - 31/8/2019, Every day, Daily Average",3003,2424,3719
+"891","Newham, 00BB (891)","44","Barnet, 00AC (44)","1/6/2019 - 31/8/2019, Every day, Daily Average",2789,2282,3407
+"891","Newham, 00BB (891)","46","Barnet, 00AC (46)","1/6/2019 - 31/8/2019, Every day, Daily Average",2447,1990,3007
+"891","Newham, 00BB (891)","47","Barnet, 00AC (47)","1/6/2019 - 31/8/2019, Every day, Daily Average",2525,2105,3027
+"891","Newham, 00BB (891)","49","Barnet, 00AC (49)","1/6/2019 - 31/8/2019, Every day, Daily Average",3023,2381,3836
+"891","Newham, 00BB (891)","50","Barnet, 00AC (50)","1/6/2019 - 31/8/2019, Every day, Daily Average",3011,2406,3767
+"891","Newham, 00BB (891)","51","Barnet, 00AC (51)","1/6/2019 - 31/8/2019, Every day, Daily Average",2239,1806,2775
+"891","Newham, 00BB (891)","52","Barnet, 00AC (52)","1/6/2019 - 31/8/2019, Every day, Daily Average",2998,2348,3826
+"891","Newham, 00BB (891)","58","Barnet, 00AC (58)","1/6/2019 - 31/8/2019, Every day, Daily Average",2274,1835,2817
+"891","Newham, 00BB (891)","61","Barnet, 00AC (61)","1/6/2019 - 31/8/2019, Every day, Daily Average",2838,2223,3621
+"891","Newham, 00BB (891)","62","Barnet, 00AC (62)","1/6/2019 - 31/8/2019, Every day, Daily Average",2540,2162,2983
+"891","Newham, 00BB (891)","63","Barnet, 00AC (63)","1/6/2019 - 31/8/2019, Every day, Daily Average",3040,2530,3651
+"891","Newham, 00BB (891)","66","Bromley, 00AF (66)","1/6/2019 - 31/8/2019, Every day, Daily Average",1732,1398,2145
+"891","Newham, 00BB (891)","67","Bromley, 00AF (67)","1/6/2019 - 31/8/2019, Every day, Daily Average",1906,1537,2362
+"891","Newham, 00BB (891)","68","Bromley, 00AF (68)","1/6/2019 - 31/8/2019, Every day, Daily Average",1936,1553,2412
+"891","Newham, 00BB (891)","69","Bromley, 00AF (69)","1/6/2019 - 31/8/2019, Every day, Daily Average",2471,2044,2985
+"891","Newham, 00BB (891)","70","Bromley, 00AF (70)","1/6/2019 - 31/8/2019, Every day, Daily Average",2604,2201,3079
+"891","Newham, 00BB (891)","71","Bromley, 00AF (71)","1/6/2019 - 31/8/2019, Every day, Daily Average",2295,1886,2791
+"891","Newham, 00BB (891)","72","Bromley, 00AF (72)","1/6/2019 - 31/8/2019, Every day, Daily Average",2010,1659,2434
+"891","Newham, 00BB (891)","73","Bromley, 00AF (73)","1/6/2019 - 31/8/2019, Every day, Daily Average",2095,1712,2563
+"891","Newham, 00BB (891)","74","Bromley, 00AF (74)","1/6/2019 - 31/8/2019, Every day, Daily Average",2632,2198,3150
+"891","Newham, 00BB (891)","75","Bromley, 00AF (75)","1/6/2019 - 31/8/2019, Every day, Daily Average",2263,1815,2820
+"891","Newham, 00BB (891)","76","Bromley, 00AF (76)","1/6/2019 - 31/8/2019, Every day, Daily Average",2318,1902,2823
+"891","Newham, 00BB (891)","77","Bromley, 00AF (77)","1/6/2019 - 31/8/2019, Every day, Daily Average",2301,1898,2788
+"891","Newham, 00BB (891)","78","Bromley, 00AF (78)","1/6/2019 - 31/8/2019, Every day, Daily Average",2414,1990,2928
+"891","Newham, 00BB (891)","79","Bromley, 00AF (79)","1/6/2019 - 31/8/2019, Every day, Daily Average",2290,1695,3093
+"891","Newham, 00BB (891)","80","Bromley, 00AF (80)","1/6/2019 - 31/8/2019, Every day, Daily Average",2655,2213,3185
+"891","Newham, 00BB (891)","81","Bromley, 00AF (81)","1/6/2019 - 31/8/2019, Every day, Daily Average",2175,1783,2652
+"891","Newham, 00BB (891)","82","Bromley, 00AF (82)","1/6/2019 - 31/8/2019, Every day, Daily Average",2501,2064,3030
+"891","Newham, 00BB (891)","83","Camden, 00AG (83)","1/6/2019 - 31/8/2019, Every day, Daily Average",3138,2656,3706
+"891","Newham, 00BB (891)","84","Camden, 00AG (84)","1/6/2019 - 31/8/2019, Every day, Daily Average",3199,2639,3876
+"891","Newham, 00BB (891)","85","Camden, 00AG (85)","1/6/2019 - 31/8/2019, Every day, Daily Average",3133,2568,3822
+"891","Newham, 00BB (891)","86","Camden, 00AG (86)","1/6/2019 - 31/8/2019, Every day, Daily Average",3014,2492,3644
+"891","Newham, 00BB (891)","87","Greenwich, 00AL (87)","1/6/2019 - 31/8/2019, Every day, Daily Average",2104,1630,2715
+"891","Newham, 00BB (891)","88","Greenwich, 00AL (88)","1/6/2019 - 31/8/2019, Every day, Daily Average",1406,898,2199
+"891","Newham, 00BB (891)","89","Greenwich, 00AL (89)","1/6/2019 - 31/8/2019, Every day, Daily Average",1646,1145,2364
+"891","Newham, 00BB (891)","90","Greenwich, 00AL (90)","1/6/2019 - 31/8/2019, Every day, Daily Average",1401,924,2123
+"891","Newham, 00BB (891)","91","Greenwich, 00AL (91)","1/6/2019 - 31/8/2019, Every day, Daily Average",1915,1420,2582
+"891","Newham, 00BB (891)","92","Greenwich, 00AL (92)","1/6/2019 - 31/8/2019, Every day, Daily Average",998,738,1348
+"891","Newham, 00BB (891)","93","Greenwich, 00AL (93)","1/6/2019 - 31/8/2019, Every day, Daily Average",1544,1056,2256
+"891","Newham, 00BB (891)","94","Greenwich, 00AL (94)","1/6/2019 - 31/8/2019, Every day, Daily Average",1340,877,2046
+"891","Newham, 00BB (891)","95","Greenwich, 00AL (95)","1/6/2019 - 31/8/2019, Every day, Daily Average",1710,1229,2378
+"891","Newham, 00BB (891)","96","Greenwich, 00AL (96)","1/6/2019 - 31/8/2019, Every day, Daily Average",1473,1087,1994
+"891","Newham, 00BB (891)","97","Greenwich, 00AL (97)","1/6/2019 - 31/8/2019, Every day, Daily Average",1050,783,1407
+"891","Newham, 00BB (891)","98","Greenwich, 00AL (98)","1/6/2019 - 31/8/2019, Every day, Daily Average",1692,1202,2381
+"891","Newham, 00BB (891)","99","Greenwich, 00AL (99)","1/6/2019 - 31/8/2019, Every day, Daily Average",1168,840,1623
+"891","Newham, 00BB (891)","100","Greenwich, 00AL (100)","1/6/2019 - 31/8/2019, Every day, Daily Average",1102,817,1485
+"891","Newham, 00BB (891)","101","Greenwich, 00AL (101)","1/6/2019 - 31/8/2019, Every day, Daily Average",1359,1012,1823
+"891","Newham, 00BB (891)","102","Greenwich, 00AL (102)","1/6/2019 - 31/8/2019, Every day, Daily Average",1178,891,1557
+"891","Newham, 00BB (891)","103","Greenwich, 00AL (103)","1/6/2019 - 31/8/2019, Every day, Daily Average",1370,1068,1757
+"891","Newham, 00BB (891)","104","Greenwich, 00AL (104)","1/6/2019 - 31/8/2019, Every day, Daily Average",1345,986,1834
+"891","Newham, 00BB (891)","105","Greenwich, 00AL (105)","1/6/2019 - 31/8/2019, Every day, Daily Average",1409,1055,1881
+"891","Newham, 00BB (891)","106","Camden, 00AG (106)","1/6/2019 - 31/8/2019, Every day, Daily Average",2431,1923,3072
+"891","Newham, 00BB (891)","107","Croydon, 00AH (107)","1/6/2019 - 31/8/2019, Every day, Daily Average",3187,2590,3920
+"891","Newham, 00BB (891)","108","Croydon, 00AH (108)","1/6/2019 - 31/8/2019, Every day, Daily Average",2785,2301,3370
+"891","Newham, 00BB (891)","111","Croydon, 00AH (111)","1/6/2019 - 31/8/2019, Every day, Daily Average",2909,2427,3485
+"891","Newham, 00BB (891)","114","Croydon, 00AH (114)","1/6/2019 - 31/8/2019, Every day, Daily Average",3344,2674,4181
+"891","Newham, 00BB (891)","115","Croydon, 00AH (115)","1/6/2019 - 31/8/2019, Every day, Daily Average",2848,2343,3461
+"891","Newham, 00BB (891)","119","Enfield, 00AK (119)","1/6/2019 - 31/8/2019, Every day, Daily Average",2308,1861,2862
+"891","Newham, 00BB (891)","120","Enfield, 00AK (120)","1/6/2019 - 31/8/2019, Every day, Daily Average",2461,1878,3224
+"891","Newham, 00BB (891)","121","Enfield, 00AK (121)","1/6/2019 - 31/8/2019, Every day, Daily Average",2376,1862,3030
+"891","Newham, 00BB (891)","124","Enfield, 00AK (124)","1/6/2019 - 31/8/2019, Every day, Daily Average",2472,1947,3138
+"891","Newham, 00BB (891)","125","Enfield, 00AK (125)","1/6/2019 - 31/8/2019, Every day, Daily Average",2082,1686,2570
+"891","Newham, 00BB (891)","126","Enfield, 00AK (126)","1/6/2019 - 31/8/2019, Every day, Daily Average",2230,1785,2785
+"891","Newham, 00BB (891)","129","Enfield, 00AK (129)","1/6/2019 - 31/8/2019, Every day, Daily Average",1824,1504,2210
+"891","Newham, 00BB (891)","130","Enfield, 00AK (130)","1/6/2019 - 31/8/2019, Every day, Daily Average",2002,1600,2504
+"891","Newham, 00BB (891)","131","Enfield, 00AK (131)","1/6/2019 - 31/8/2019, Every day, Daily Average",1617,1332,1962
+"891","Newham, 00BB (891)","132","Enfield, 00AK (132)","1/6/2019 - 31/8/2019, Every day, Daily Average",2056,1656,2552
+"891","Newham, 00BB (891)","133","Enfield, 00AK (133)","1/6/2019 - 31/8/2019, Every day, Daily Average",2166,1709,2744
+"891","Newham, 00BB (891)","134","Enfield, 00AK (134)","1/6/2019 - 31/8/2019, Every day, Daily Average",1491,1222,1818
+"891","Newham, 00BB (891)","135","Enfield, 00AK (135)","1/6/2019 - 31/8/2019, Every day, Daily Average",1744,1417,2145
+"891","Newham, 00BB (891)","136","Enfield, 00AK (136)","1/6/2019 - 31/8/2019, Every day, Daily Average",2136,1720,2652
+"891","Newham, 00BB (891)","137","Enfield, 00AK (137)","1/6/2019 - 31/8/2019, Every day, Daily Average",1548,1269,1886
+"891","Newham, 00BB (891)","138","Enfield, 00AK (138)","1/6/2019 - 31/8/2019, Every day, Daily Average",1660,1367,2014
+"891","Newham, 00BB (891)","139","Enfield, 00AK (139)","1/6/2019 - 31/8/2019, Every day, Daily Average",1804,1474,2207
+"891","Newham, 00BB (891)","140","Enfield, 00AK (140)","1/6/2019 - 31/8/2019, Every day, Daily Average",1983,1603,2452
+"891","Newham, 00BB (891)","141","Greenwich, 00AL (141)","1/6/2019 - 31/8/2019, Every day, Daily Average",1857,1261,2732
+"891","Newham, 00BB (891)","142","Greenwich, 00AL (142)","1/6/2019 - 31/8/2019, Every day, Daily Average",1406,1103,1790
+"891","Newham, 00BB (891)","144","Greenwich, 00AL (144)","1/6/2019 - 31/8/2019, Every day, Daily Average",1657,1289,2129
+"891","Newham, 00BB (891)","145","Greenwich, 00AL (145)","1/6/2019 - 31/8/2019, Every day, Daily Average",1848,1400,2437
+"891","Newham, 00BB (891)","146","Hackney, 00AM (146)","1/6/2019 - 31/8/2019, Every day, Daily Average",1884,1492,2378
+"891","Newham, 00BB (891)","147","Hackney, 00AM (147)","1/6/2019 - 31/8/2019, Every day, Daily Average",2205,1768,2749
+"891","Newham, 00BB (891)","148","Hackney, 00AM (148)","1/6/2019 - 31/8/2019, Every day, Daily Average",2033,1653,2499
+"891","Newham, 00BB (891)","149","Hackney, 00AM (149)","1/6/2019 - 31/8/2019, Every day, Daily Average",1775,1262,2494
+"891","Newham, 00BB (891)","150","Hackney, 00AM (150)","1/6/2019 - 31/8/2019, Every day, Daily Average",1616,1251,2086
+"891","Newham, 00BB (891)","151","Hackney, 00AM (151)","1/6/2019 - 31/8/2019, Every day, Daily Average",1804,1448,2246
+"891","Newham, 00BB (891)","152","Hackney, 00AM (152)","1/6/2019 - 31/8/2019, Every day, Daily Average",1735,1427,2108
+"891","Newham, 00BB (891)","153","Hackney, 00AM (153)","1/6/2019 - 31/8/2019, Every day, Daily Average",1146,939,1398
+"891","Newham, 00BB (891)","154","Hackney, 00AM (154)","1/6/2019 - 31/8/2019, Every day, Daily Average",1333,1096,1620
+"891","Newham, 00BB (891)","155","Hackney, 00AM (155)","1/6/2019 - 31/8/2019, Every day, Daily Average",1553,1289,1870
+"891","Newham, 00BB (891)","156","Hackney, 00AM (156)","1/6/2019 - 31/8/2019, Every day, Daily Average",1760,1468,2109
+"891","Newham, 00BB (891)","157","Hackney, 00AM (157)","1/6/2019 - 31/8/2019, Every day, Daily Average",1756,1411,2184
+"891","Newham, 00BB (891)","158","Hammersmith and Fulham, 00AN (158)","1/6/2019 - 31/8/2019, Every day, Daily Average",3633,2867,4603
+"891","Newham, 00BB (891)","160","Hammersmith and Fulham, 00AN (160)","1/6/2019 - 31/8/2019, Every day, Daily Average",3972,3197,4933
+"891","Newham, 00BB (891)","161","Hammersmith and Fulham, 00AN (161)","1/6/2019 - 31/8/2019, Every day, Daily Average",3331,2645,4193
+"891","Newham, 00BB (891)","162","Haringey, 00AP (162)","1/6/2019 - 31/8/2019, Every day, Daily Average",2121,1744,2578
+"891","Newham, 00BB (891)","163","Haringey, 00AP (163)","1/6/2019 - 31/8/2019, Every day, Daily Average",1785,1495,2130
+"891","Newham, 00BB (891)","164","Haringey, 00AP (164)","1/6/2019 - 31/8/2019, Every day, Daily Average",2012,1557,2599
+"891","Newham, 00BB (891)","165","Haringey, 00AP (165)","1/6/2019 - 31/8/2019, Every day, Daily Average",2204,1778,2730
+"891","Newham, 00BB (891)","166","Haringey, 00AP (166)","1/6/2019 - 31/8/2019, Every day, Daily Average",1906,1610,2256
+"891","Newham, 00BB (891)","167","Haringey, 00AP (167)","1/6/2019 - 31/8/2019, Every day, Daily Average",1829,1538,2174
+"891","Newham, 00BB (891)","168","Haringey, 00AP (168)","1/6/2019 - 31/8/2019, Every day, Daily Average",2278,1806,2872
+"891","Newham, 00BB (891)","169","Haringey, 00AP (169)","1/6/2019 - 31/8/2019, Every day, Daily Average",2131,1714,2648
+"891","Newham, 00BB (891)","170","Haringey, 00AP (170)","1/6/2019 - 31/8/2019, Every day, Daily Average",2390,1970,2899
+"891","Newham, 00BB (891)","172","Haringey, 00AP (172)","1/6/2019 - 31/8/2019, Every day, Daily Average",2303,1869,2837
+"891","Newham, 00BB (891)","173","Haringey, 00AP (173)","1/6/2019 - 31/8/2019, Every day, Daily Average",2145,1832,2511
+"891","Newham, 00BB (891)","174","Haringey, 00AP (174)","1/6/2019 - 31/8/2019, Every day, Daily Average",2394,2080,2754
+"891","Newham, 00BB (891)","175","Haringey, 00AP (175)","1/6/2019 - 31/8/2019, Every day, Daily Average",2583,2159,3089
+"891","Newham, 00BB (891)","176","Haringey, 00AP (176)","1/6/2019 - 31/8/2019, Every day, Daily Average",2607,2238,3036
+"891","Newham, 00BB (891)","177","Haringey, 00AP (177)","1/6/2019 - 31/8/2019, Every day, Daily Average",2294,1982,2654
+"891","Newham, 00BB (891)","178","Haringey, 00AP (178)","1/6/2019 - 31/8/2019, Every day, Daily Average",2180,1775,2676
+"891","Newham, 00BB (891)","179","Haringey, 00AP (179)","1/6/2019 - 31/8/2019, Every day, Daily Average",2083,1708,2539
+"891","Newham, 00BB (891)","180","Haringey, 00AP (180)","1/6/2019 - 31/8/2019, Every day, Daily Average",2216,1809,2713
+"891","Newham, 00BB (891)","181","Haringey, 00AP (181)","1/6/2019 - 31/8/2019, Every day, Daily Average",2293,1869,2812
+"891","Newham, 00BB (891)","182","Haringey, 00AP (182)","1/6/2019 - 31/8/2019, Every day, Daily Average",2486,2108,2931
+"891","Newham, 00BB (891)","183","Haringey, 00AP (183)","1/6/2019 - 31/8/2019, Every day, Daily Average",1946,1447,2615
+"891","Newham, 00BB (891)","184","Haringey, 00AP (184)","1/6/2019 - 31/8/2019, Every day, Daily Average",2887,2360,3531
+"891","Newham, 00BB (891)","185","Haringey, 00AP (185)","1/6/2019 - 31/8/2019, Every day, Daily Average",2407,1954,2964
+"891","Newham, 00BB (891)","186","Haringey, 00AP (186)","1/6/2019 - 31/8/2019, Every day, Daily Average",2201,1714,2825
+"891","Newham, 00BB (891)","187","Haringey, 00AP (187)","1/6/2019 - 31/8/2019, Every day, Daily Average",2635,2232,3110
+"891","Newham, 00BB (891)","188","Haringey, 00AP (188)","1/6/2019 - 31/8/2019, Every day, Daily Average",2523,2136,2978
+"891","Newham, 00BB (891)","201","Islington, 00AU (201)","1/6/2019 - 31/8/2019, Every day, Daily Average",2098,1758,2503
+"891","Newham, 00BB (891)","202","Islington, 00AU (202)","1/6/2019 - 31/8/2019, Every day, Daily Average",2366,2013,2780
+"891","Newham, 00BB (891)","203","Islington, 00AU (203)","1/6/2019 - 31/8/2019, Every day, Daily Average",2020,1710,2385
+"891","Newham, 00BB (891)","204","Islington, 00AU (204)","1/6/2019 - 31/8/2019, Every day, Daily Average",2410,1979,2933
+"891","Newham, 00BB (891)","205","Kensington and Chelsea, 00AW (205)","1/6/2019 - 31/8/2019, Every day, Daily Average",3577,2834,4514
+"891","Newham, 00BB (891)","206","Kensington and Chelsea, 00AW (206)","1/6/2019 - 31/8/2019, Every day, Daily Average",3509,2795,4405
+"891","Newham, 00BB (891)","207","Kensington and Chelsea, 00AW (207)","1/6/2019 - 31/8/2019, Every day, Daily Average",3567,2820,4510
+"891","Newham, 00BB (891)","208","Kensington and Chelsea, 00AW (208)","1/6/2019 - 31/8/2019, Every day, Daily Average",3768,3009,4717
+"891","Newham, 00BB (891)","209","Kensington and Chelsea, 00AW (209)","1/6/2019 - 31/8/2019, Every day, Daily Average",3229,2548,4091
+"891","Newham, 00BB (891)","210","Kensington and Chelsea, 00AW (210)","1/6/2019 - 31/8/2019, Every day, Daily Average",2822,2162,3682
+"891","Newham, 00BB (891)","211","Kensington and Chelsea, 00AW (211)","1/6/2019 - 31/8/2019, Every day, Daily Average",3254,2450,4321
+"891","Newham, 00BB (891)","212","Kensington and Chelsea, 00AW (212)","1/6/2019 - 31/8/2019, Every day, Daily Average",2986,2272,3923
+"891","Newham, 00BB (891)","213","Kensington and Chelsea, 00AW (213)","1/6/2019 - 31/8/2019, Every day, Daily Average",3170,2422,4147
+"891","Newham, 00BB (891)","214","Kensington and Chelsea, 00AW (214)","1/6/2019 - 31/8/2019, Every day, Daily Average",2941,2330,3711
+"891","Newham, 00BB (891)","215","Kensington and Chelsea, 00AW (215)","1/6/2019 - 31/8/2019, Every day, Daily Average",3239,2562,4094
+"891","Newham, 00BB (891)","230","Lambeth, 00AY (230)","1/6/2019 - 31/8/2019, Every day, Daily Average",2178,1717,2761
+"891","Newham, 00BB (891)","231","Lambeth, 00AY (231)","1/6/2019 - 31/8/2019, Every day, Daily Average",2473,1997,3061
+"891","Newham, 00BB (891)","232","Lambeth, 00AY (232)","1/6/2019 - 31/8/2019, Every day, Daily Average",2249,1842,2745
+"891","Newham, 00BB (891)","233","Lambeth, 00AY (233)","1/6/2019 - 31/8/2019, Every day, Daily Average",2596,2158,3122
+"891","Newham, 00BB (891)","234","Lambeth, 00AY (234)","1/6/2019 - 31/8/2019, Every day, Daily Average",2800,2325,3371
+"891","Newham, 00BB (891)","235","Lambeth, 00AY (235)","1/6/2019 - 31/8/2019, Every day, Daily Average",2504,1989,3151
+"891","Newham, 00BB (891)","236","Lambeth, 00AY (236)","1/6/2019 - 31/8/2019, Every day, Daily Average",2661,2205,3210
+"891","Newham, 00BB (891)","237","Lambeth, 00AY (237)","1/6/2019 - 31/8/2019, Every day, Daily Average",2723,2237,3313
+"891","Newham, 00BB (891)","238","Lambeth, 00AY (238)","1/6/2019 - 31/8/2019, Every day, Daily Average",2758,2290,3320
+"891","Newham, 00BB (891)","239","Lambeth, 00AY (239)","1/6/2019 - 31/8/2019, Every day, Daily Average",2674,2201,3248
+"891","Newham, 00BB (891)","240","Lambeth, 00AY (240)","1/6/2019 - 31/8/2019, Every day, Daily Average",2883,2406,3453
+"891","Newham, 00BB (891)","241","Lambeth, 00AY (241)","1/6/2019 - 31/8/2019, Every day, Daily Average",2809,2287,3450
+"891","Newham, 00BB (891)","242","Lambeth, 00AY (242)","1/6/2019 - 31/8/2019, Every day, Daily Average",2897,2379,3526
+"891","Newham, 00BB (891)","243","Lambeth, 00AY (243)","1/6/2019 - 31/8/2019, Every day, Daily Average",2981,2460,3611
+"891","Newham, 00BB (891)","244","Lambeth, 00AY (244)","1/6/2019 - 31/8/2019, Every day, Daily Average",3134,2639,3721
+"891","Newham, 00BB (891)","245","Lambeth, 00AY (245)","1/6/2019 - 31/8/2019, Every day, Daily Average",2784,2355,3290
+"891","Newham, 00BB (891)","246","Lambeth, 00AY (246)","1/6/2019 - 31/8/2019, Every day, Daily Average",2685,2276,3166
+"891","Newham, 00BB (891)","247","Lambeth, 00AY (247)","1/6/2019 - 31/8/2019, Every day, Daily Average",3034,2465,3733
+"891","Newham, 00BB (891)","248","Lambeth, 00AY (248)","1/6/2019 - 31/8/2019, Every day, Daily Average",2892,2430,3440
+"891","Newham, 00BB (891)","249","Lambeth, 00AY (249)","1/6/2019 - 31/8/2019, Every day, Daily Average",2680,2257,3182
+"891","Newham, 00BB (891)","250","Lambeth, 00AY (250)","1/6/2019 - 31/8/2019, Every day, Daily Average",3181,2554,3961
+"891","Newham, 00BB (891)","251","Lambeth, 00AY (251)","1/6/2019 - 31/8/2019, Every day, Daily Average",3151,2683,3699
+"891","Newham, 00BB (891)","252","Lambeth, 00AY (252)","1/6/2019 - 31/8/2019, Every day, Daily Average",2933,2495,3446
+"891","Newham, 00BB (891)","253","Lambeth, 00AY (253)","1/6/2019 - 31/8/2019, Every day, Daily Average",3294,2640,4108
+"891","Newham, 00BB (891)","254","Lambeth, 00AY (254)","1/6/2019 - 31/8/2019, Every day, Daily Average",2793,2339,3334
+"891","Newham, 00BB (891)","255","Lambeth, 00AY (255)","1/6/2019 - 31/8/2019, Every day, Daily Average",3201,2589,3956
+"891","Newham, 00BB (891)","257","Lewisham, 00AZ (257)","1/6/2019 - 31/8/2019, Every day, Daily Average",1700,1337,2160
+"891","Newham, 00BB (891)","258","Lewisham, 00AZ (258)","1/6/2019 - 31/8/2019, Every day, Daily Average",1730,1391,2150
+"891","Newham, 00BB (891)","259","Lewisham, 00AZ (259)","1/6/2019 - 31/8/2019, Every day, Daily Average",1999,1643,2431
+"891","Newham, 00BB (891)","260","Lewisham, 00AZ (260)","1/6/2019 - 31/8/2019, Every day, Daily Average",1861,1508,2296
+"891","Newham, 00BB (891)","261","Lewisham, 00AZ (261)","1/6/2019 - 31/8/2019, Every day, Daily Average",2164,1812,2583
+"891","Newham, 00BB (891)","262","Newham, 00BB (262)","1/6/2019 - 31/8/2019, Every day, Daily Average",793,552,1137
+"891","Newham, 00BB (891)","263","Newham, 00BB (263)","1/6/2019 - 31/8/2019, Every day, Daily Average",864,644,1159
+"891","Newham, 00BB (891)","264","Newham, 00BB (264)","1/6/2019 - 31/8/2019, Every day, Daily Average",823,613,1104
+"891","Newham, 00BB (891)","265","Newham, 00BB (265)","1/6/2019 - 31/8/2019, Every day, Daily Average",760,537,1074
+"891","Newham, 00BB (891)","266","Newham, 00BB (266)","1/6/2019 - 31/8/2019, Every day, Daily Average",891,624,1270
+"891","Newham, 00BB (891)","267","Newham, 00BB (267)","1/6/2019 - 31/8/2019, Every day, Daily Average",888,654,1204
+"891","Newham, 00BB (891)","268","Newham, 00BB (268)","1/6/2019 - 31/8/2019, Every day, Daily Average",602,381,949
+"891","Newham, 00BB (891)","269","Newham, 00BB (269)","1/6/2019 - 31/8/2019, Every day, Daily Average",583,403,842
+"891","Newham, 00BB (891)","270","Newham, 00BB (270)","1/6/2019 - 31/8/2019, Every day, Daily Average",523,340,802
+"891","Newham, 00BB (891)","271","Newham, 00BB (271)","1/6/2019 - 31/8/2019, Every day, Daily Average",492,194,1242
+"891","Newham, 00BB (891)","273","Redbridge, 00BC (273)","1/6/2019 - 31/8/2019, Every day, Daily Average",1185,931,1507
+"891","Newham, 00BB (891)","274","Redbridge, 00BC (274)","1/6/2019 - 31/8/2019, Every day, Daily Average",1581,1259,1983
+"891","Newham, 00BB (891)","275","Redbridge, 00BC (275)","1/6/2019 - 31/8/2019, Every day, Daily Average",1415,1117,1791
+"891","Newham, 00BB (891)","276","Redbridge, 00BC (276)","1/6/2019 - 31/8/2019, Every day, Daily Average",1321,1030,1693
+"891","Newham, 00BB (891)","277","Redbridge, 00BC (277)","1/6/2019 - 31/8/2019, Every day, Daily Average",1696,1284,2240
+"891","Newham, 00BB (891)","278","Redbridge, 00BC (278)","1/6/2019 - 31/8/2019, Every day, Daily Average",1356,1015,1810
+"891","Newham, 00BB (891)","279","Redbridge, 00BC (279)","1/6/2019 - 31/8/2019, Every day, Daily Average",1397,1062,1837
+"891","Newham, 00BB (891)","280","Redbridge, 00BC (280)","1/6/2019 - 31/8/2019, Every day, Daily Average",1105,858,1421
+"891","Newham, 00BB (891)","281","Redbridge, 00BC (281)","1/6/2019 - 31/8/2019, Every day, Daily Average",1427,1121,1815
+"891","Newham, 00BB (891)","282","Redbridge, 00BC (282)","1/6/2019 - 31/8/2019, Every day, Daily Average",1116,872,1428
+"891","Newham, 00BB (891)","283","Redbridge, 00BC (283)","1/6/2019 - 31/8/2019, Every day, Daily Average",1770,1317,2378
+"891","Newham, 00BB (891)","284","Redbridge, 00BC (284)","1/6/2019 - 31/8/2019, Every day, Daily Average",1478,1136,1922
+"891","Newham, 00BB (891)","285","Southwark, 00BE (285)","1/6/2019 - 31/8/2019, Every day, Daily Average",1946,1526,2480
+"891","Newham, 00BB (891)","286","Southwark, 00BE (286)","1/6/2019 - 31/8/2019, Every day, Daily Average",1443,1081,1924
+"891","Newham, 00BB (891)","287","Southwark, 00BE (287)","1/6/2019 - 31/8/2019, Every day, Daily Average",1781,1406,2254
+"891","Newham, 00BB (891)","288","Southwark, 00BE (288)","1/6/2019 - 31/8/2019, Every day, Daily Average",2054,1736,2429
+"891","Newham, 00BB (891)","289","Southwark, 00BE (289)","1/6/2019 - 31/8/2019, Every day, Daily Average",1730,1411,2120
+"891","Newham, 00BB (891)","290","Southwark, 00BE (290)","1/6/2019 - 31/8/2019, Every day, Daily Average",2503,2136,2932
+"891","Newham, 00BB (891)","291","Southwark, 00BE (291)","1/6/2019 - 31/8/2019, Every day, Daily Average",2305,1970,2696
+"891","Newham, 00BB (891)","292","Southwark, 00BE (292)","1/6/2019 - 31/8/2019, Every day, Daily Average",2495,2111,2948
+"891","Newham, 00BB (891)","317","Tower Hamlets, 00BG (317)","1/6/2019 - 31/8/2019, Every day, Daily Average",895,709,1128
+"891","Newham, 00BB (891)","318","Tower Hamlets, 00BG (318)","1/6/2019 - 31/8/2019, Every day, Daily Average",1208,905,1610
+"891","Newham, 00BB (891)","319","Tower Hamlets, 00BG (319)","1/6/2019 - 31/8/2019, Every day, Daily Average",842,644,1099
+"891","Newham, 00BB (891)","320","Tower Hamlets, 00BG (320)","1/6/2019 - 31/8/2019, Every day, Daily Average",1307,1055,1618
+"891","Newham, 00BB (891)","321","Tower Hamlets, 00BG (321)","1/6/2019 - 31/8/2019, Every day, Daily Average",1039,799,1350
+"891","Newham, 00BB (891)","322","Tower Hamlets, 00BG (322)","1/6/2019 - 31/8/2019, Every day, Daily Average",1163,886,1525
+"891","Newham, 00BB (891)","323","Tower Hamlets, 00BG (323)","1/6/2019 - 31/8/2019, Every day, Daily Average",486,312,755
+"891","Newham, 00BB (891)","324","Waltham Forest, 00BH (324)","1/6/2019 - 31/8/2019, Every day, Daily Average",1507,1163,1951
+"891","Newham, 00BB (891)","325","Waltham Forest, 00BH (325)","1/6/2019 - 31/8/2019, Every day, Daily Average",1282,925,1775
+"891","Newham, 00BB (891)","326","Waltham Forest, 00BH (326)","1/6/2019 - 31/8/2019, Every day, Daily Average",1313,908,1897
+"891","Newham, 00BB (891)","327","Waltham Forest, 00BH (327)","1/6/2019 - 31/8/2019, Every day, Daily Average",1240,884,1738
+"891","Newham, 00BB (891)","328","Waltham Forest, 00BH (328)","1/6/2019 - 31/8/2019, Every day, Daily Average",1326,915,1920
+"891","Newham, 00BB (891)","329","Waltham Forest, 00BH (329)","1/6/2019 - 31/8/2019, Every day, Daily Average",1345,1009,1791
+"891","Newham, 00BB (891)","330","Wandsworth, 00BJ (330)","1/6/2019 - 31/8/2019, Every day, Daily Average",2810,2291,3445
+"891","Newham, 00BB (891)","331","Wandsworth, 00BJ (331)","1/6/2019 - 31/8/2019, Every day, Daily Average",2572,2104,3142
+"891","Newham, 00BB (891)","332","Wandsworth, 00BJ (332)","1/6/2019 - 31/8/2019, Every day, Daily Average",2901,2348,3583
+"891","Newham, 00BB (891)","333","Wandsworth, 00BJ (333)","1/6/2019 - 31/8/2019, Every day, Daily Average",3086,2462,3867
+"891","Newham, 00BB (891)","334","Wandsworth, 00BJ (334)","1/6/2019 - 31/8/2019, Every day, Daily Average",2865,2388,3437
+"891","Newham, 00BB (891)","335","Wandsworth, 00BJ (335)","1/6/2019 - 31/8/2019, Every day, Daily Average",3030,2481,3700
+"891","Newham, 00BB (891)","336","Wandsworth, 00BJ (336)","1/6/2019 - 31/8/2019, Every day, Daily Average",3031,2528,3632
+"891","Newham, 00BB (891)","337","Wandsworth, 00BJ (337)","1/6/2019 - 31/8/2019, Every day, Daily Average",3440,2764,4280
+"891","Newham, 00BB (891)","338","Wandsworth, 00BJ (338)","1/6/2019 - 31/8/2019, Every day, Daily Average",3878,3029,4964
+"891","Newham, 00BB (891)","339","Wandsworth, 00BJ (339)","1/6/2019 - 31/8/2019, Every day, Daily Average",3347,2720,4117
+"891","Newham, 00BB (891)","340","Wandsworth, 00BJ (340)","1/6/2019 - 31/8/2019, Every day, Daily Average",3607,2884,4510
+"891","Newham, 00BB (891)","341","Wandsworth, 00BJ (341)","1/6/2019 - 31/8/2019, Every day, Daily Average",3307,2731,4003
+"891","Newham, 00BB (891)","342","Wandsworth, 00BJ (342)","1/6/2019 - 31/8/2019, Every day, Daily Average",3864,2992,4988
+"891","Newham, 00BB (891)","343","Wandsworth, 00BJ (343)","1/6/2019 - 31/8/2019, Every day, Daily Average",3162,2642,3783
+"891","Newham, 00BB (891)","344","Wandsworth, 00BJ (344)","1/6/2019 - 31/8/2019, Every day, Daily Average",3486,2817,4312
+"891","Newham, 00BB (891)","345","Wandsworth, 00BJ (345)","1/6/2019 - 31/8/2019, Every day, Daily Average",3428,2800,4196
+"891","Newham, 00BB (891)","346","Wandsworth, 00BJ (346)","1/6/2019 - 31/8/2019, Every day, Daily Average",3616,2909,4493
+"891","Newham, 00BB (891)","347","Wandsworth, 00BJ (347)","1/6/2019 - 31/8/2019, Every day, Daily Average",3089,2569,3713
+"891","Newham, 00BB (891)","348","Wandsworth, 00BJ (348)","1/6/2019 - 31/8/2019, Every day, Daily Average",3251,2664,3966
+"891","Newham, 00BB (891)","349","Wandsworth, 00BJ (349)","1/6/2019 - 31/8/2019, Every day, Daily Average",3767,2828,5016
+"891","Newham, 00BB (891)","350","Wandsworth, 00BJ (350)","1/6/2019 - 31/8/2019, Every day, Daily Average",3333,2709,4099
+"891","Newham, 00BB (891)","351","Wandsworth, 00BJ (351)","1/6/2019 - 31/8/2019, Every day, Daily Average",3284,2691,4007
+"891","Newham, 00BB (891)","352","Wandsworth, 00BJ (352)","1/6/2019 - 31/8/2019, Every day, Daily Average",3453,2784,4282
+"891","Newham, 00BB (891)","353","Wandsworth, 00BJ (353)","1/6/2019 - 31/8/2019, Every day, Daily Average",3714,3062,4504
+"891","Newham, 00BB (891)","354","Wandsworth, 00BJ (354)","1/6/2019 - 31/8/2019, Every day, Daily Average",3560,2870,4415
+"891","Newham, 00BB (891)","356","Westminster, 00BK (356)","1/6/2019 - 31/8/2019, Every day, Daily Average",3014,2375,3823
+"891","Newham, 00BB (891)","357","Westminster, 00BK (357)","1/6/2019 - 31/8/2019, Every day, Daily Average",3284,2617,4120
+"891","Newham, 00BB (891)","358","Westminster, 00BK (358)","1/6/2019 - 31/8/2019, Every day, Daily Average",2892,2261,3699
+"891","Newham, 00BB (891)","359","Westminster, 00BK (359)","1/6/2019 - 31/8/2019, Every day, Daily Average",2706,2118,3455
+"891","Newham, 00BB (891)","360","Westminster, 00BK (360)","1/6/2019 - 31/8/2019, Every day, Daily Average",3344,2659,4204
+"891","Newham, 00BB (891)","361","Westminster, 00BK (361)","1/6/2019 - 31/8/2019, Every day, Daily Average",3458,2768,4319
+"891","Newham, 00BB (891)","362","Westminster, 00BK (362)","1/6/2019 - 31/8/2019, Every day, Daily Average",1974,1487,2618
+"891","Newham, 00BB (891)","363","Westminster, 00BK (363)","1/6/2019 - 31/8/2019, Every day, Daily Average",2796,2139,3653
+"891","Newham, 00BB (891)","364","Westminster, 00BK (364)","1/6/2019 - 31/8/2019, Every day, Daily Average",2067,1574,2713
+"891","Newham, 00BB (891)","365","Westminster, 00BK (365)","1/6/2019 - 31/8/2019, Every day, Daily Average",2665,2053,3459
+"891","Newham, 00BB (891)","366","Barnet, 00AC (366)","1/6/2019 - 31/8/2019, Every day, Daily Average",2886,2261,3682
+"891","Newham, 00BB (891)","367","Barnet, 00AC (367)","1/6/2019 - 31/8/2019, Every day, Daily Average",2770,2171,3534
+"891","Newham, 00BB (891)","368","Barnet, 00AC (368)","1/6/2019 - 31/8/2019, Every day, Daily Average",2494,1997,3113
+"891","Newham, 00BB (891)","369","Barnet, 00AC (369)","1/6/2019 - 31/8/2019, Every day, Daily Average",2686,2118,3404
+"891","Newham, 00BB (891)","370","Barnet, 00AC (370)","1/6/2019 - 31/8/2019, Every day, Daily Average",2529,2025,3157
+"891","Newham, 00BB (891)","371","Barnet, 00AC (371)","1/6/2019 - 31/8/2019, Every day, Daily Average",2869,2340,3517
+"891","Newham, 00BB (891)","372","Barnet, 00AC (372)","1/6/2019 - 31/8/2019, Every day, Daily Average",2670,2133,3340
+"891","Newham, 00BB (891)","373","Barnet, 00AC (373)","1/6/2019 - 31/8/2019, Every day, Daily Average",2772,2208,3478
+"891","Newham, 00BB (891)","374","Barnet, 00AC (374)","1/6/2019 - 31/8/2019, Every day, Daily Average",2795,2258,3459
+"891","Newham, 00BB (891)","375","Barnet, 00AC (375)","1/6/2019 - 31/8/2019, Every day, Daily Average",2792,2333,3341
+"891","Newham, 00BB (891)","376","Barnet, 00AC (376)","1/6/2019 - 31/8/2019, Every day, Daily Average",2849,2379,3410
+"891","Newham, 00BB (891)","377","Bexley, 00AD (377)","1/6/2019 - 31/8/2019, Every day, Daily Average",2116,1516,2952
+"891","Newham, 00BB (891)","378","Bexley, 00AD (378)","1/6/2019 - 31/8/2019, Every day, Daily Average",2091,1516,2882
+"891","Newham, 00BB (891)","379","Bexley, 00AD (379)","1/6/2019 - 31/8/2019, Every day, Daily Average",2217,1645,2986
+"891","Newham, 00BB (891)","380","Bexley, 00AD (380)","1/6/2019 - 31/8/2019, Every day, Daily Average",2303,1714,3092
+"891","Newham, 00BB (891)","382","Bexley, 00AD (382)","1/6/2019 - 31/8/2019, Every day, Daily Average",2116,1678,2666
+"891","Newham, 00BB (891)","388","Bexley, 00AD (388)","1/6/2019 - 31/8/2019, Every day, Daily Average",1868,1365,2554
+"891","Newham, 00BB (891)","391","Bexley, 00AD (391)","1/6/2019 - 31/8/2019, Every day, Daily Average",1699,1374,2100
+"891","Newham, 00BB (891)","392","Bexley, 00AD (392)","1/6/2019 - 31/8/2019, Every day, Daily Average",1411,1095,1816
+"891","Newham, 00BB (891)","393","Bexley, 00AD (393)","1/6/2019 - 31/8/2019, Every day, Daily Average",1626,1280,2064
+"891","Newham, 00BB (891)","394","Bexley, 00AD (394)","1/6/2019 - 31/8/2019, Every day, Daily Average",1426,1086,1871
+"891","Newham, 00BB (891)","395","Bexley, 00AD (395)","1/6/2019 - 31/8/2019, Every day, Daily Average",1686,1309,2170
+"891","Newham, 00BB (891)","396","Bexley, 00AD (396)","1/6/2019 - 31/8/2019, Every day, Daily Average",1530,1201,1948
+"891","Newham, 00BB (891)","397","Bexley, 00AD (397)","1/6/2019 - 31/8/2019, Every day, Daily Average",1476,1142,1906
+"891","Newham, 00BB (891)","399","Bexley, 00AD (399)","1/6/2019 - 31/8/2019, Every day, Daily Average",1601,1248,2053
+"891","Newham, 00BB (891)","400","Bexley, 00AD (400)","1/6/2019 - 31/8/2019, Every day, Daily Average",1708,1395,2089
+"891","Newham, 00BB (891)","401","Bexley, 00AD (401)","1/6/2019 - 31/8/2019, Every day, Daily Average",2025,1470,2788
+"891","Newham, 00BB (891)","402","Bexley, 00AD (402)","1/6/2019 - 31/8/2019, Every day, Daily Average",2053,1515,2781
+"891","Newham, 00BB (891)","403","Bexley, 00AD (403)","1/6/2019 - 31/8/2019, Every day, Daily Average",2065,1552,2745
+"891","Newham, 00BB (891)","404","Bexley, 00AD (404)","1/6/2019 - 31/8/2019, Every day, Daily Average",2199,1623,2978
+"891","Newham, 00BB (891)","407","Barking and Dagenham, 00AB (407)","1/6/2019 - 31/8/2019, Every day, Daily Average",807,592,1099
+"891","Newham, 00BB (891)","408","Barking and Dagenham, 00AB (408)","1/6/2019 - 31/8/2019, Every day, Daily Average",984,698,1385
+"891","Newham, 00BB (891)","415","Barnet, 00AC (415)","1/6/2019 - 31/8/2019, Every day, Daily Average",2367,1897,2952
+"891","Newham, 00BB (891)","416","Barnet, 00AC (416)","1/6/2019 - 31/8/2019, Every day, Daily Average",2633,2043,3392
+"891","Newham, 00BB (891)","423","Brent, 00AE (423)","1/6/2019 - 31/8/2019, Every day, Daily Average",3192,2693,3783
+"891","Newham, 00BB (891)","424","Brent, 00AE (424)","1/6/2019 - 31/8/2019, Every day, Daily Average",2911,2307,3672
+"891","Newham, 00BB (891)","425","Brent, 00AE (425)","1/6/2019 - 31/8/2019, Every day, Daily Average",2852,2178,3733
+"891","Newham, 00BB (891)","428","Brent, 00AE (428)","1/6/2019 - 31/8/2019, Every day, Daily Average",2989,2393,3732
+"891","Newham, 00BB (891)","434","Brent, 00AE (434)","1/6/2019 - 31/8/2019, Every day, Daily Average",3144,2564,3855
+"891","Newham, 00BB (891)","435","Brent, 00AE (435)","1/6/2019 - 31/8/2019, Every day, Daily Average",3092,2468,3872
+"891","Newham, 00BB (891)","441","Brent, 00AE (441)","1/6/2019 - 31/8/2019, Every day, Daily Average",3223,2586,4015
+"891","Newham, 00BB (891)","442","Bromley, 00AF (442)","1/6/2019 - 31/8/2019, Every day, Daily Average",2255,1865,2725
+"891","Newham, 00BB (891)","443","Bromley, 00AF (443)","1/6/2019 - 31/8/2019, Every day, Daily Average",2343,1770,3100
+"891","Newham, 00BB (891)","444","Bromley, 00AF (444)","1/6/2019 - 31/8/2019, Every day, Daily Average",2299,1923,2747
+"891","Newham, 00BB (891)","445","Bromley, 00AF (445)","1/6/2019 - 31/8/2019, Every day, Daily Average",2453,2064,2915
+"891","Newham, 00BB (891)","446","Bromley, 00AF (446)","1/6/2019 - 31/8/2019, Every day, Daily Average",2217,1895,2593
+"891","Newham, 00BB (891)","447","Bromley, 00AF (447)","1/6/2019 - 31/8/2019, Every day, Daily Average",2277,1857,2790
+"891","Newham, 00BB (891)","449","Bromley, 00AF (449)","1/6/2019 - 31/8/2019, Every day, Daily Average",2526,2055,3104
+"891","Newham, 00BB (891)","452","Bromley, 00AF (452)","1/6/2019 - 31/8/2019, Every day, Daily Average",2386,1958,2907
+"891","Newham, 00BB (891)","464","Camden, 00AG (464)","1/6/2019 - 31/8/2019, Every day, Daily Average",3002,2579,3493
+"891","Newham, 00BB (891)","465","Camden, 00AG (465)","1/6/2019 - 31/8/2019, Every day, Daily Average",3145,2629,3761
+"891","Newham, 00BB (891)","466","Camden, 00AG (466)","1/6/2019 - 31/8/2019, Every day, Daily Average",2790,2374,3278
+"891","Newham, 00BB (891)","467","Camden, 00AG (467)","1/6/2019 - 31/8/2019, Every day, Daily Average",3057,2524,3701
+"891","Newham, 00BB (891)","468","Camden, 00AG (468)","1/6/2019 - 31/8/2019, Every day, Daily Average",3114,2562,3784
+"891","Newham, 00BB (891)","469","Camden, 00AG (469)","1/6/2019 - 31/8/2019, Every day, Daily Average",3120,2647,3676
+"891","Newham, 00BB (891)","470","Camden, 00AG (470)","1/6/2019 - 31/8/2019, Every day, Daily Average",2898,2474,3393
+"891","Newham, 00BB (891)","471","Camden, 00AG (471)","1/6/2019 - 31/8/2019, Every day, Daily Average",3185,2662,3809
+"891","Newham, 00BB (891)","472","Camden, 00AG (472)","1/6/2019 - 31/8/2019, Every day, Daily Average",2740,2333,3217
+"891","Newham, 00BB (891)","473","Camden, 00AG (473)","1/6/2019 - 31/8/2019, Every day, Daily Average",2991,2514,3557
+"891","Newham, 00BB (891)","474","Hillingdon, 00AS (474)","1/6/2019 - 31/8/2019, Every day, Daily Average",4278,3433,5330
+"891","Newham, 00BB (891)","475","Hillingdon, 00AS (475)","1/6/2019 - 31/8/2019, Every day, Daily Average",4451,3551,5578
+"891","Newham, 00BB (891)","476","Hillingdon, 00AS (476)","1/6/2019 - 31/8/2019, Every day, Daily Average",4708,3753,5905
+"891","Newham, 00BB (891)","477","Hillingdon, 00AS (477)","1/6/2019 - 31/8/2019, Every day, Daily Average",4721,3957,5632
+"891","Newham, 00BB (891)","478","Hillingdon, 00AS (478)","1/6/2019 - 31/8/2019, Every day, Daily Average",4602,3451,6136
+"891","Newham, 00BB (891)","479","Hillingdon, 00AS (479)","1/6/2019 - 31/8/2019, Every day, Daily Average",4897,3860,6211
+"891","Newham, 00BB (891)","480","Hillingdon, 00AS (480)","1/6/2019 - 31/8/2019, Every day, Daily Average",4625,3496,6117
+"891","Newham, 00BB (891)","481","Hounslow, 00AT (481)","1/6/2019 - 31/8/2019, Every day, Daily Average",3763,2767,5115
+"891","Newham, 00BB (891)","482","Hounslow, 00AT (482)","1/6/2019 - 31/8/2019, Every day, Daily Average",4014,2945,5470
+"891","Newham, 00BB (891)","483","Hounslow, 00AT (483)","1/6/2019 - 31/8/2019, Every day, Daily Average",4084,2987,5582
+"891","Newham, 00BB (891)","484","Hounslow, 00AT (484)","1/6/2019 - 31/8/2019, Every day, Daily Average",4374,3245,5894
+"891","Newham, 00BB (891)","485","Hounslow, 00AT (485)","1/6/2019 - 31/8/2019, Every day, Daily Average",4462,3375,5897
+"891","Newham, 00BB (891)","490","Brent, 00AE (490)","1/6/2019 - 31/8/2019, Every day, Daily Average",3590,2926,4404
+"891","Newham, 00BB (891)","491","Camden, 00AG (491)","1/6/2019 - 31/8/2019, Every day, Daily Average",2716,2298,3210
+"891","Newham, 00BB (891)","492","Camden, 00AG (492)","1/6/2019 - 31/8/2019, Every day, Daily Average",2888,2395,3481
+"891","Newham, 00BB (891)","493","Camden, 00AG (493)","1/6/2019 - 31/8/2019, Every day, Daily Average",3314,2734,4016
+"891","Newham, 00BB (891)","494","Greenwich, 00AL (494)","1/6/2019 - 31/8/2019, Every day, Daily Average",1179,903,1538
+"891","Newham, 00BB (891)","495","Hounslow, 00AT (495)","1/6/2019 - 31/8/2019, Every day, Daily Average",4217,3094,5746
+"891","Newham, 00BB (891)","496","Hounslow, 00AT (496)","1/6/2019 - 31/8/2019, Every day, Daily Average",3858,2829,5260
+"891","Newham, 00BB (891)","497","Hounslow, 00AT (497)","1/6/2019 - 31/8/2019, Every day, Daily Average",3983,2915,5442
+"891","Newham, 00BB (891)","498","Hounslow, 00AT (498)","1/6/2019 - 31/8/2019, Every day, Daily Average",4333,3205,5857
+"891","Newham, 00BB (891)","499","Hounslow, 00AT (499)","1/6/2019 - 31/8/2019, Every day, Daily Average",4462,3338,5963
+"891","Newham, 00BB (891)","500","Camden, 00AG (500)","1/6/2019 - 31/8/2019, Every day, Daily Average",3171,2664,3774
+"891","Newham, 00BB (891)","501","Camden, 00AG (501)","1/6/2019 - 31/8/2019, Every day, Daily Average",2765,2179,3507
+"891","Newham, 00BB (891)","505","Camden, 00AG (505)","1/6/2019 - 31/8/2019, Every day, Daily Average",2972,2487,3551
+"891","Newham, 00BB (891)","506","Croydon, 00AH (506)","1/6/2019 - 31/8/2019, Every day, Daily Average",3005,2493,3621
+"891","Newham, 00BB (891)","507","Croydon, 00AH (507)","1/6/2019 - 31/8/2019, Every day, Daily Average",3087,2545,3744
+"891","Newham, 00BB (891)","510","Camden, 00AG (510)","1/6/2019 - 31/8/2019, Every day, Daily Average",3060,2526,3706
+"891","Newham, 00BB (891)","511","Croydon, 00AH (511)","1/6/2019 - 31/8/2019, Every day, Daily Average",3024,2537,3604
+"891","Newham, 00BB (891)","512","Croydon, 00AH (512)","1/6/2019 - 31/8/2019, Every day, Daily Average",3368,2762,4105
+"891","Newham, 00BB (891)","517","Camden, 00AG (517)","1/6/2019 - 31/8/2019, Every day, Daily Average",2605,2053,3305
+"891","Newham, 00BB (891)","524","Camden, 00AG (524)","1/6/2019 - 31/8/2019, Every day, Daily Average",2657,2053,3438
+"891","Newham, 00BB (891)","537","Ealing, 00AJ (537)","1/6/2019 - 31/8/2019, Every day, Daily Average",3768,2929,4847
+"891","Newham, 00BB (891)","538","Ealing, 00AJ (538)","1/6/2019 - 31/8/2019, Every day, Daily Average",3700,2873,4763
+"891","Newham, 00BB (891)","539","Ealing, 00AJ (539)","1/6/2019 - 31/8/2019, Every day, Daily Average",3967,3181,4946
+"891","Newham, 00BB (891)","540","Ealing, 00AJ (540)","1/6/2019 - 31/8/2019, Every day, Daily Average",4095,3265,5135
+"891","Newham, 00BB (891)","541","Ealing, 00AJ (541)","1/6/2019 - 31/8/2019, Every day, Daily Average",3899,3050,4983
+"891","Newham, 00BB (891)","542","Ealing, 00AJ (542)","1/6/2019 - 31/8/2019, Every day, Daily Average",3431,2724,4321
+"891","Newham, 00BB (891)","543","Ealing, 00AJ (543)","1/6/2019 - 31/8/2019, Every day, Daily Average",3821,2919,5000
+"891","Newham, 00BB (891)","544","Ealing, 00AJ (544)","1/6/2019 - 31/8/2019, Every day, Daily Average",3649,2867,4643
+"891","Newham, 00BB (891)","546","Ealing, 00AJ (546)","1/6/2019 - 31/8/2019, Every day, Daily Average",3738,2947,4740
+"891","Newham, 00BB (891)","551","Camden, 00AG (551)","1/6/2019 - 31/8/2019, Every day, Daily Average",2422,1934,3031
+"891","Newham, 00BB (891)","552","Ealing, 00AJ (552)","1/6/2019 - 31/8/2019, Every day, Daily Average",3618,2883,4539
+"891","Newham, 00BB (891)","556","Ealing, 00AJ (556)","1/6/2019 - 31/8/2019, Every day, Daily Average",3759,2978,4743
+"891","Newham, 00BB (891)","559","Ealing, 00AJ (559)","1/6/2019 - 31/8/2019, Every day, Daily Average",3773,3003,4740
+"891","Newham, 00BB (891)","567","Camden, 00AG (567)","1/6/2019 - 31/8/2019, Every day, Daily Average",2520,1962,3236
+"891","Newham, 00BB (891)","568","Hackney, 00AM (568)","1/6/2019 - 31/8/2019, Every day, Daily Average",1497,1191,1880
+"891","Newham, 00BB (891)","569","Hackney, 00AM (569)","1/6/2019 - 31/8/2019, Every day, Daily Average",2035,1744,2374
+"891","Newham, 00BB (891)","570","Hackney, 00AM (570)","1/6/2019 - 31/8/2019, Every day, Daily Average",1149,853,1546
+"891","Newham, 00BB (891)","571","Hackney, 00AM (571)","1/6/2019 - 31/8/2019, Every day, Daily Average",1833,1537,2184
+"891","Newham, 00BB (891)","572","Camden, 00AG (572)","1/6/2019 - 31/8/2019, Every day, Daily Average",2153,1678,2761
+"891","Newham, 00BB (891)","573","Camden, 00AG (573)","1/6/2019 - 31/8/2019, Every day, Daily Average",2135,1681,2710
+"891","Newham, 00BB (891)","574","Croydon, 00AH (574)","1/6/2019 - 31/8/2019, Every day, Daily Average",3019,2519,3617
+"891","Newham, 00BB (891)","575","Croydon, 00AH (575)","1/6/2019 - 31/8/2019, Every day, Daily Average",3086,2623,3629
+"891","Newham, 00BB (891)","580","Croydon, 00AH (580)","1/6/2019 - 31/8/2019, Every day, Daily Average",2919,2451,3475
+"891","Newham, 00BB (891)","581","Croydon, 00AH (581)","1/6/2019 - 31/8/2019, Every day, Daily Average",2841,2362,3416
+"891","Newham, 00BB (891)","585","Croydon, 00AH (585)","1/6/2019 - 31/8/2019, Every day, Daily Average",2694,2211,3282
+"891","Newham, 00BB (891)","596","Enfield, 00AK (596)","1/6/2019 - 31/8/2019, Every day, Daily Average",2134,1769,2573
+"891","Newham, 00BB (891)","597","Enfield, 00AK (597)","1/6/2019 - 31/8/2019, Every day, Daily Average",2212,1819,2688
+"891","Newham, 00BB (891)","598","Enfield, 00AK (598)","1/6/2019 - 31/8/2019, Every day, Daily Average",2096,1736,2529
+"891","Newham, 00BB (891)","599","Enfield, 00AK (599)","1/6/2019 - 31/8/2019, Every day, Daily Average",2374,1966,2866
+"891","Newham, 00BB (891)","606","Enfield, 00AK (606)","1/6/2019 - 31/8/2019, Every day, Daily Average",3000,2233,4029
+"891","Newham, 00BB (891)","607","Greenwich, 00AL (607)","1/6/2019 - 31/8/2019, Every day, Daily Average",2011,1380,2928
+"891","Newham, 00BB (891)","608","Hackney, 00AM (608)","1/6/2019 - 31/8/2019, Every day, Daily Average",1223,907,1647
+"891","Newham, 00BB (891)","609","Hackney, 00AM (609)","1/6/2019 - 31/8/2019, Every day, Daily Average",1656,1370,2001
+"891","Newham, 00BB (891)","610","Hackney, 00AM (610)","1/6/2019 - 31/8/2019, Every day, Daily Average",1393,1142,1699
+"891","Newham, 00BB (891)","611","Havering, 00AR (611)","1/6/2019 - 31/8/2019, Every day, Daily Average",2189,1731,2766
+"891","Newham, 00BB (891)","616","Havering, 00AR (616)","1/6/2019 - 31/8/2019, Every day, Daily Average",2164,1691,2769
+"891","Newham, 00BB (891)","617","Havering, 00AR (617)","1/6/2019 - 31/8/2019, Every day, Daily Average",2124,1736,2598
+"891","Newham, 00BB (891)","618","Havering, 00AR (618)","1/6/2019 - 31/8/2019, Every day, Daily Average",2007,1624,2478
+"891","Newham, 00BB (891)","620","Havering, 00AR (620)","1/6/2019 - 31/8/2019, Every day, Daily Average",1930,1560,2386
+"891","Newham, 00BB (891)","622","Havering, 00AR (622)","1/6/2019 - 31/8/2019, Every day, Daily Average",2030,1642,2508
+"891","Newham, 00BB (891)","623","Havering, 00AR (623)","1/6/2019 - 31/8/2019, Every day, Daily Average",2112,1688,2640
+"891","Newham, 00BB (891)","625","Havering, 00AR (625)","1/6/2019 - 31/8/2019, Every day, Daily Average",1945,1559,2425
+"891","Newham, 00BB (891)","626","Havering, 00AR (626)","1/6/2019 - 31/8/2019, Every day, Daily Average",1796,1418,2273
+"891","Newham, 00BB (891)","627","Greenwich, 00AL (627)","1/6/2019 - 31/8/2019, Every day, Daily Average",1528,1014,2302
+"891","Newham, 00BB (891)","628","Greenwich, 00AL (628)","1/6/2019 - 31/8/2019, Every day, Daily Average",1945,1394,2713
+"891","Newham, 00BB (891)","629","Greenwich, 00AL (629)","1/6/2019 - 31/8/2019, Every day, Daily Average",1772,1197,2622
+"891","Newham, 00BB (891)","630","Greenwich, 00AL (630)","1/6/2019 - 31/8/2019, Every day, Daily Average",2101,1543,2859
+"891","Newham, 00BB (891)","631","Greenwich, 00AL (631)","1/6/2019 - 31/8/2019, Every day, Daily Average",1745,1210,2515
+"891","Newham, 00BB (891)","632","Greenwich, 00AL (632)","1/6/2019 - 31/8/2019, Every day, Daily Average",974,664,1427
+"891","Newham, 00BB (891)","633","Hackney, 00AM (633)","1/6/2019 - 31/8/2019, Every day, Daily Average",2334,1951,2791
+"891","Newham, 00BB (891)","634","Hackney, 00AM (634)","1/6/2019 - 31/8/2019, Every day, Daily Average",2143,1813,2532
+"891","Newham, 00BB (891)","635","Hackney, 00AM (635)","1/6/2019 - 31/8/2019, Every day, Daily Average",1864,1525,2277
+"891","Newham, 00BB (891)","636","Hackney, 00AM (636)","1/6/2019 - 31/8/2019, Every day, Daily Average",1544,1213,1963
+"891","Newham, 00BB (891)","637","Hackney, 00AM (637)","1/6/2019 - 31/8/2019, Every day, Daily Average",985,790,1226
+"891","Newham, 00BB (891)","638","Hackney, 00AM (638)","1/6/2019 - 31/8/2019, Every day, Daily Average",1196,972,1471
+"891","Newham, 00BB (891)","639","Hackney, 00AM (639)","1/6/2019 - 31/8/2019, Every day, Daily Average",1599,1347,1896
+"891","Newham, 00BB (891)","640","Hammersmith and Fulham, 00AN (640)","1/6/2019 - 31/8/2019, Every day, Daily Average",3851,3054,4855
+"891","Newham, 00BB (891)","641","Havering, 00AR (641)","1/6/2019 - 31/8/2019, Every day, Daily Average",1857,1493,2308
+"891","Newham, 00BB (891)","643","Havering, 00AR (643)","1/6/2019 - 31/8/2019, Every day, Daily Average",1944,1573,2401
+"891","Newham, 00BB (891)","644","Havering, 00AR (644)","1/6/2019 - 31/8/2019, Every day, Daily Average",1906,1530,2374
+"891","Newham, 00BB (891)","646","Hackney, 00AM (646)","1/6/2019 - 31/8/2019, Every day, Daily Average",1990,1617,2447
+"891","Newham, 00BB (891)","647","Hammersmith and Fulham, 00AN (647)","1/6/2019 - 31/8/2019, Every day, Daily Average",3662,2694,4976
+"891","Newham, 00BB (891)","648","Havering, 00AR (648)","1/6/2019 - 31/8/2019, Every day, Daily Average",1725,1406,2115
+"891","Newham, 00BB (891)","649","Havering, 00AR (649)","1/6/2019 - 31/8/2019, Every day, Daily Average",1729,1393,2144
+"891","Newham, 00BB (891)","650","Havering, 00AR (650)","1/6/2019 - 31/8/2019, Every day, Daily Average",1640,1346,1997
+"891","Newham, 00BB (891)","651","Havering, 00AR (651)","1/6/2019 - 31/8/2019, Every day, Daily Average",1619,1290,2031
+"891","Newham, 00BB (891)","652","Havering, 00AR (652)","1/6/2019 - 31/8/2019, Every day, Daily Average",1543,1214,1961
+"891","Newham, 00BB (891)","653","Havering, 00AR (653)","1/6/2019 - 31/8/2019, Every day, Daily Average",1205,891,1628
+"891","Newham, 00BB (891)","654","Havering, 00AR (654)","1/6/2019 - 31/8/2019, Every day, Daily Average",1281,984,1666
+"891","Newham, 00BB (891)","659","Hillingdon, 00AS (659)","1/6/2019 - 31/8/2019, Every day, Daily Average",4180,3334,5239
+"891","Newham, 00BB (891)","662","Hillingdon, 00AS (662)","1/6/2019 - 31/8/2019, Every day, Daily Average",4225,3385,5273
+"891","Newham, 00BB (891)","664","Hammersmith and Fulham, 00AN (664)","1/6/2019 - 31/8/2019, Every day, Daily Average",3419,2739,4267
+"891","Newham, 00BB (891)","665","Hammersmith and Fulham, 00AN (665)","1/6/2019 - 31/8/2019, Every day, Daily Average",3592,2910,4432
+"891","Newham, 00BB (891)","666","Hammersmith and Fulham, 00AN (666)","1/6/2019 - 31/8/2019, Every day, Daily Average",3916,3131,4897
+"891","Newham, 00BB (891)","667","Hammersmith and Fulham, 00AN (667)","1/6/2019 - 31/8/2019, Every day, Daily Average",4066,3130,5280
+"891","Newham, 00BB (891)","668","Haringey, 00AP (668)","1/6/2019 - 31/8/2019, Every day, Daily Average",2001,1719,2329
+"891","Newham, 00BB (891)","669","Hammersmith and Fulham, 00AN (669)","1/6/2019 - 31/8/2019, Every day, Daily Average",3905,3106,4908
+"891","Newham, 00BB (891)","670","Haringey, 00AP (670)","1/6/2019 - 31/8/2019, Every day, Daily Average",2442,2025,2943
+"891","Newham, 00BB (891)","671","Haringey, 00AP (671)","1/6/2019 - 31/8/2019, Every day, Daily Average",1946,1603,2361
+"891","Newham, 00BB (891)","673","Hillingdon, 00AS (673)","1/6/2019 - 31/8/2019, Every day, Daily Average",3953,3310,4720
+"891","Newham, 00BB (891)","677","Hammersmith and Fulham, 00AN (677)","1/6/2019 - 31/8/2019, Every day, Daily Average",3964,3201,4908
+"891","Newham, 00BB (891)","678","Hammersmith and Fulham, 00AN (678)","1/6/2019 - 31/8/2019, Every day, Daily Average",3579,2649,4835
+"891","Newham, 00BB (891)","679","Hammersmith and Fulham, 00AN (679)","1/6/2019 - 31/8/2019, Every day, Daily Average",3591,2646,4872
+"891","Newham, 00BB (891)","680","Hammersmith and Fulham, 00AN (680)","1/6/2019 - 31/8/2019, Every day, Daily Average",3470,2561,4700
+"891","Newham, 00BB (891)","681","Hammersmith and Fulham, 00AN (681)","1/6/2019 - 31/8/2019, Every day, Daily Average",3411,2521,4613
+"891","Newham, 00BB (891)","683","Hammersmith and Fulham, 00AN (683)","1/6/2019 - 31/8/2019, Every day, Daily Average",3438,2781,4249
+"891","Newham, 00BB (891)","685","Hammersmith and Fulham, 00AN (685)","1/6/2019 - 31/8/2019, Every day, Daily Average",3554,2918,4328
+"891","Newham, 00BB (891)","686","Hammersmith and Fulham, 00AN (686)","1/6/2019 - 31/8/2019, Every day, Daily Average",3087,2496,3816
+"891","Newham, 00BB (891)","687","Hammersmith and Fulham, 00AN (687)","1/6/2019 - 31/8/2019, Every day, Daily Average",3312,2702,4058
+"891","Newham, 00BB (891)","688","Hammersmith and Fulham, 00AN (688)","1/6/2019 - 31/8/2019, Every day, Daily Average",3862,3018,4941
+"891","Newham, 00BB (891)","689","Hammersmith and Fulham, 00AN (689)","1/6/2019 - 31/8/2019, Every day, Daily Average",3388,2705,4242
+"891","Newham, 00BB (891)","690","Hammersmith and Fulham, 00AN (690)","1/6/2019 - 31/8/2019, Every day, Daily Average",3430,2684,4382
+"891","Newham, 00BB (891)","692","Haringey, 00AP (692)","1/6/2019 - 31/8/2019, Every day, Daily Average",2076,1744,2470
+"891","Newham, 00BB (891)","697","Haringey, 00AP (697)","1/6/2019 - 31/8/2019, Every day, Daily Average",2130,1618,2802
+"891","Newham, 00BB (891)","698","Haringey, 00AP (698)","1/6/2019 - 31/8/2019, Every day, Daily Average",2088,1642,2654
+"891","Newham, 00BB (891)","699","Haringey, 00AP (699)","1/6/2019 - 31/8/2019, Every day, Daily Average",2339,1994,2742
+"891","Newham, 00BB (891)","703","Haringey, 00AP (703)","1/6/2019 - 31/8/2019, Every day, Daily Average",2914,2391,3550
+"891","Newham, 00BB (891)","704","Haringey, 00AP (704)","1/6/2019 - 31/8/2019, Every day, Daily Average",2484,2026,3044
+"891","Newham, 00BB (891)","705","Harrow, 00AQ (705)","1/6/2019 - 31/8/2019, Every day, Daily Average",3128,2532,3863
+"891","Newham, 00BB (891)","709","Havering, 00AR (709)","1/6/2019 - 31/8/2019, Every day, Daily Average",1476,1103,1973
+"891","Newham, 00BB (891)","722","Hounslow, 00AT (722)","1/6/2019 - 31/8/2019, Every day, Daily Average",4730,3609,6198
+"891","Newham, 00BB (891)","738","Islington, 00AU (738)","1/6/2019 - 31/8/2019, Every day, Daily Average",2656,2268,3109
+"891","Newham, 00BB (891)","739","Islington, 00AU (739)","1/6/2019 - 31/8/2019, Every day, Daily Average",2796,2296,3404
+"891","Newham, 00BB (891)","740","Islington, 00AU (740)","1/6/2019 - 31/8/2019, Every day, Daily Average",2625,2194,3140
+"891","Newham, 00BB (891)","741","Islington, 00AU (741)","1/6/2019 - 31/8/2019, Every day, Daily Average",2829,2348,3408
+"891","Newham, 00BB (891)","742","Islington, 00AU (742)","1/6/2019 - 31/8/2019, Every day, Daily Average",2555,2182,2991
+"891","Newham, 00BB (891)","743","Islington, 00AU (743)","1/6/2019 - 31/8/2019, Every day, Daily Average",2355,2022,2741
+"891","Newham, 00BB (891)","744","Islington, 00AU (744)","1/6/2019 - 31/8/2019, Every day, Daily Average",2569,2174,3035
+"891","Newham, 00BB (891)","745","Islington, 00AU (745)","1/6/2019 - 31/8/2019, Every day, Daily Average",2658,2263,3121
+"891","Newham, 00BB (891)","746","Islington, 00AU (746)","1/6/2019 - 31/8/2019, Every day, Daily Average",2219,1937,2541
+"891","Newham, 00BB (891)","747","Islington, 00AU (747)","1/6/2019 - 31/8/2019, Every day, Daily Average",2626,2231,3089
+"891","Newham, 00BB (891)","748","Islington, 00AU (748)","1/6/2019 - 31/8/2019, Every day, Daily Average",2432,2039,2900
+"891","Newham, 00BB (891)","749","Islington, 00AU (749)","1/6/2019 - 31/8/2019, Every day, Daily Average",1862,1557,2225
+"891","Newham, 00BB (891)","750","Islington, 00AU (750)","1/6/2019 - 31/8/2019, Every day, Daily Average",2296,1906,2764
+"891","Newham, 00BB (891)","751","Islington, 00AU (751)","1/6/2019 - 31/8/2019, Every day, Daily Average",1928,1639,2267
+"891","Newham, 00BB (891)","752","Islington, 00AU (752)","1/6/2019 - 31/8/2019, Every day, Daily Average",2560,2168,3022
+"891","Newham, 00BB (891)","753","Islington, 00AU (753)","1/6/2019 - 31/8/2019, Every day, Daily Average",2188,1810,2644
+"891","Newham, 00BB (891)","754","Islington, 00AU (754)","1/6/2019 - 31/8/2019, Every day, Daily Average",2301,1859,2847
+"891","Newham, 00BB (891)","755","Islington, 00AU (755)","1/6/2019 - 31/8/2019, Every day, Daily Average",2101,1679,2627
+"891","Newham, 00BB (891)","756","Lewisham, 00AZ (756)","1/6/2019 - 31/8/2019, Every day, Daily Average",1641,1312,2052
+"891","Newham, 00BB (891)","757","Lewisham, 00AZ (757)","1/6/2019 - 31/8/2019, Every day, Daily Average",1527,1194,1952
+"891","Newham, 00BB (891)","758","Lewisham, 00AZ (758)","1/6/2019 - 31/8/2019, Every day, Daily Average",2055,1688,2501
+"891","Newham, 00BB (891)","759","Lewisham, 00AZ (759)","1/6/2019 - 31/8/2019, Every day, Daily Average",2020,1566,2604
+"891","Newham, 00BB (891)","760","Lewisham, 00AZ (760)","1/6/2019 - 31/8/2019, Every day, Daily Average",1646,1302,2080
+"891","Newham, 00BB (891)","761","Lewisham, 00AZ (761)","1/6/2019 - 31/8/2019, Every day, Daily Average",2097,1736,2532
+"891","Newham, 00BB (891)","762","Lewisham, 00AZ (762)","1/6/2019 - 31/8/2019, Every day, Daily Average",2295,1922,2740
+"891","Newham, 00BB (891)","763","Lewisham, 00AZ (763)","1/6/2019 - 31/8/2019, Every day, Daily Average",1988,1618,2442
+"891","Newham, 00BB (891)","764","Lewisham, 00AZ (764)","1/6/2019 - 31/8/2019, Every day, Daily Average",1987,1605,2459
+"891","Newham, 00BB (891)","765","Lewisham, 00AZ (765)","1/6/2019 - 31/8/2019, Every day, Daily Average",1838,1447,2334
+"891","Newham, 00BB (891)","766","Lewisham, 00AZ (766)","1/6/2019 - 31/8/2019, Every day, Daily Average",1895,1487,2414
+"891","Newham, 00BB (891)","768","Islington, 00AU (768)","1/6/2019 - 31/8/2019, Every day, Daily Average",1996,1616,2465
+"891","Newham, 00BB (891)","769","Kensington and Chelsea, 00AW (769)","1/6/2019 - 31/8/2019, Every day, Daily Average",3439,2737,4320
+"891","Newham, 00BB (891)","770","Lewisham, 00AZ (770)","1/6/2019 - 31/8/2019, Every day, Daily Average",2471,2066,2954
+"891","Newham, 00BB (891)","771","Lewisham, 00AZ (771)","1/6/2019 - 31/8/2019, Every day, Daily Average",2135,1755,2596
+"891","Newham, 00BB (891)","772","Lewisham, 00AZ (772)","1/6/2019 - 31/8/2019, Every day, Daily Average",2297,1896,2782
+"891","Newham, 00BB (891)","773","Lewisham, 00AZ (773)","1/6/2019 - 31/8/2019, Every day, Daily Average",2074,1693,2540
+"891","Newham, 00BB (891)","774","Merton, 00BA (774)","1/6/2019 - 31/8/2019, Every day, Daily Average",3874,3272,4586
+"891","Newham, 00BB (891)","776","Merton, 00BA (776)","1/6/2019 - 31/8/2019, Every day, Daily Average",3981,3333,4753
+"891","Newham, 00BB (891)","778","Merton, 00BA (778)","1/6/2019 - 31/8/2019, Every day, Daily Average",3616,2986,4377
+"891","Newham, 00BB (891)","784","Merton, 00BA (784)","1/6/2019 - 31/8/2019, Every day, Daily Average",4030,3183,5101
+"891","Newham, 00BB (891)","790","Merton, 00BA (790)","1/6/2019 - 31/8/2019, Every day, Daily Average",4212,3334,5320
+"891","Newham, 00BB (891)","797","Kensington and Chelsea, 00AW (797)","1/6/2019 - 31/8/2019, Every day, Daily Average",3602,2893,4483
+"891","Newham, 00BB (891)","801","Newham, 00BB (801)","1/6/2019 - 31/8/2019, Every day, Daily Average",1330,1063,1663
+"891","Newham, 00BB (891)","802","Newham, 00BB (802)","1/6/2019 - 31/8/2019, Every day, Daily Average",1036,778,1378
+"891","Newham, 00BB (891)","803","Kensington and Chelsea, 00AW (803)","1/6/2019 - 31/8/2019, Every day, Daily Average",3374,2650,4294
+"891","Newham, 00BB (891)","804","Newham, 00BB (804)","1/6/2019 - 31/8/2019, Every day, Daily Average",1277,929,1755
+"891","Newham, 00BB (891)","805","Newham, 00BB (805)","1/6/2019 - 31/8/2019, Every day, Daily Average",892,670,1186
+"891","Newham, 00BB (891)","806","Newham, 00BB (806)","1/6/2019 - 31/8/2019, Every day, Daily Average",1156,875,1526
+"891","Newham, 00BB (891)","807","Newham, 00BB (807)","1/6/2019 - 31/8/2019, Every day, Daily Average",1252,964,1625
+"891","Newham, 00BB (891)","808","Newham, 00BB (808)","1/6/2019 - 31/8/2019, Every day, Daily Average",1119,883,1416
+"891","Newham, 00BB (891)","809","Newham, 00BB (809)","1/6/2019 - 31/8/2019, Every day, Daily Average",1013,769,1334
+"891","Newham, 00BB (891)","810","Newham, 00BB (810)","1/6/2019 - 31/8/2019, Every day, Daily Average",1209,903,1618
+"891","Newham, 00BB (891)","811","Newham, 00BB (811)","1/6/2019 - 31/8/2019, Every day, Daily Average",1232,908,1670
+"891","Newham, 00BB (891)","812","Newham, 00BB (812)","1/6/2019 - 31/8/2019, Every day, Daily Average",1024,740,1415
+"891","Newham, 00BB (891)","813","Newham, 00BB (813)","1/6/2019 - 31/8/2019, Every day, Daily Average",1041,741,1462
+"891","Newham, 00BB (891)","814","Newham, 00BB (814)","1/6/2019 - 31/8/2019, Every day, Daily Average",1109,825,1489
+"891","Newham, 00BB (891)","815","Newham, 00BB (815)","1/6/2019 - 31/8/2019, Every day, Daily Average",843,632,1123
+"891","Newham, 00BB (891)","816","Newham, 00BB (816)","1/6/2019 - 31/8/2019, Every day, Daily Average",921,707,1198
+"891","Newham, 00BB (891)","817","Newham, 00BB (817)","1/6/2019 - 31/8/2019, Every day, Daily Average",993,786,1254
+"891","Newham, 00BB (891)","818","Newham, 00BB (818)","1/6/2019 - 31/8/2019, Every day, Daily Average",1033,742,1437
+"891","Newham, 00BB (891)","819","Wandsworth, 00BJ (819)","1/6/2019 - 31/8/2019, Every day, Daily Average",3131,2583,3794
+"891","Newham, 00BB (891)","820","Kensington and Chelsea, 00AW (820)","1/6/2019 - 31/8/2019, Every day, Daily Average",3763,2975,4758
+"891","Newham, 00BB (891)","821","Kensington and Chelsea, 00AW (821)","1/6/2019 - 31/8/2019, Every day, Daily Average",3419,2604,4489
+"891","Newham, 00BB (891)","822","Redbridge, 00BC (822)","1/6/2019 - 31/8/2019, Every day, Daily Average",1332,974,1821
+"891","Newham, 00BB (891)","823","Redbridge, 00BC (823)","1/6/2019 - 31/8/2019, Every day, Daily Average",1681,1241,2276
+"891","Newham, 00BB (891)","824","Redbridge, 00BC (824)","1/6/2019 - 31/8/2019, Every day, Daily Average",1463,1050,2038
+"891","Newham, 00BB (891)","825","Redbridge, 00BC (825)","1/6/2019 - 31/8/2019, Every day, Daily Average",1420,1100,1832
+"891","Newham, 00BB (891)","826","Redbridge, 00BC (826)","1/6/2019 - 31/8/2019, Every day, Daily Average",1031,803,1322
+"891","Newham, 00BB (891)","827","Redbridge, 00BC (827)","1/6/2019 - 31/8/2019, Every day, Daily Average",1254,901,1744
+"891","Newham, 00BB (891)","828","Redbridge, 00BC (828)","1/6/2019 - 31/8/2019, Every day, Daily Average",1416,1087,1842
+"891","Newham, 00BB (891)","829","Redbridge, 00BC (829)","1/6/2019 - 31/8/2019, Every day, Daily Average",1445,1071,1948
+"891","Newham, 00BB (891)","830","Redbridge, 00BC (830)","1/6/2019 - 31/8/2019, Every day, Daily Average",973,741,1276
+"891","Newham, 00BB (891)","831","Redbridge, 00BC (831)","1/6/2019 - 31/8/2019, Every day, Daily Average",1204,896,1616
+"891","Newham, 00BB (891)","832","Redbridge, 00BC (832)","1/6/2019 - 31/8/2019, Every day, Daily Average",1381,1013,1881
+"891","Newham, 00BB (891)","833","Redbridge, 00BC (833)","1/6/2019 - 31/8/2019, Every day, Daily Average",938,713,1233
+"891","Newham, 00BB (891)","834","Redbridge, 00BC (834)","1/6/2019 - 31/8/2019, Every day, Daily Average",1272,913,1770
+"891","Newham, 00BB (891)","836","Richmond upon Thames, 00BD (836)","1/6/2019 - 31/8/2019, Every day, Daily Average",4074,3270,5074
+"891","Newham, 00BB (891)","837","Richmond upon Thames, 00BD (837)","1/6/2019 - 31/8/2019, Every day, Daily Average",4087,3196,5226
+"891","Newham, 00BB (891)","838","Kensington and Chelsea, 00AW (838)","1/6/2019 - 31/8/2019, Every day, Daily Average",3393,2532,4545
+"891","Newham, 00BB (891)","839","Kensington and Chelsea, 00AW (839)","1/6/2019 - 31/8/2019, Every day, Daily Average",3332,2609,4253
+"891","Newham, 00BB (891)","840","Richmond upon Thames, 00BD (840)","1/6/2019 - 31/8/2019, Every day, Daily Average",4128,3246,5249
+"891","Newham, 00BB (891)","841","Kensington and Chelsea, 00AW (841)","1/6/2019 - 31/8/2019, Every day, Daily Average",2799,2156,3633
+"891","Newham, 00BB (891)","844","Richmond upon Thames, 00BD (844)","1/6/2019 - 31/8/2019, Every day, Daily Average",4280,3451,5306
+"891","Newham, 00BB (891)","847","Kensington and Chelsea, 00AW (847)","1/6/2019 - 31/8/2019, Every day, Daily Average",2973,2340,3776
+"891","Newham, 00BB (891)","849","Kingston upon Thames, 00AX (849)","1/6/2019 - 31/8/2019, Every day, Daily Average",4007,3191,5031
+"891","Newham, 00BB (891)","850","Kingston upon Thames, 00AX (850)","1/6/2019 - 31/8/2019, Every day, Daily Average",4446,3637,5433
+"891","Newham, 00BB (891)","854","Lambeth, 00AY (854)","1/6/2019 - 31/8/2019, Every day, Daily Average",2241,1749,2870
+"891","Newham, 00BB (891)","861","Lambeth, 00AY (861)","1/6/2019 - 31/8/2019, Every day, Daily Average",2275,1816,2848
+"891","Newham, 00BB (891)","867","Lambeth, 00AY (867)","1/6/2019 - 31/8/2019, Every day, Daily Average",2391,1963,2911
+"891","Newham, 00BB (891)","868","Lambeth, 00AY (868)","1/6/2019 - 31/8/2019, Every day, Daily Average",2332,1914,2840
+"891","Newham, 00BB (891)","869","Lambeth, 00AY (869)","1/6/2019 - 31/8/2019, Every day, Daily Average",2433,2005,2952
+"891","Newham, 00BB (891)","870","Lambeth, 00AY (870)","1/6/2019 - 31/8/2019, Every day, Daily Average",2494,1608,3866
+"891","Newham, 00BB (891)","871","Lewisham, 00AZ (871)","1/6/2019 - 31/8/2019, Every day, Daily Average",1560,1176,2068
+"891","Newham, 00BB (891)","872","Lewisham, 00AZ (872)","1/6/2019 - 31/8/2019, Every day, Daily Average",1642,1234,2183
+"891","Newham, 00BB (891)","873","Lewisham, 00AZ (873)","1/6/2019 - 31/8/2019, Every day, Daily Average",1736,1370,2198
+"891","Newham, 00BB (891)","874","Lewisham, 00AZ (874)","1/6/2019 - 31/8/2019, Every day, Daily Average",1664,1271,2176
+"891","Newham, 00BB (891)","875","Lewisham, 00AZ (875)","1/6/2019 - 31/8/2019, Every day, Daily Average",1644,1276,2117
+"891","Newham, 00BB (891)","876","Lewisham, 00AZ (876)","1/6/2019 - 31/8/2019, Every day, Daily Average",1855,1532,2245
+"891","Newham, 00BB (891)","877","Lewisham, 00AZ (877)","1/6/2019 - 31/8/2019, Every day, Daily Average",1391,1063,1818
+"891","Newham, 00BB (891)","878","Lewisham, 00AZ (878)","1/6/2019 - 31/8/2019, Every day, Daily Average",1779,1424,2221
+"891","Newham, 00BB (891)","879","Lewisham, 00AZ (879)","1/6/2019 - 31/8/2019, Every day, Daily Average",1281,943,1739
+"891","Newham, 00BB (891)","880","Lewisham, 00AZ (880)","1/6/2019 - 31/8/2019, Every day, Daily Average",1871,1536,2277
+"891","Newham, 00BB (891)","881","Lewisham, 00AZ (881)","1/6/2019 - 31/8/2019, Every day, Daily Average",1800,1468,2206
+"891","Newham, 00BB (891)","882","Lewisham, 00AZ (882)","1/6/2019 - 31/8/2019, Every day, Daily Average",1687,1303,2184
+"891","Newham, 00BB (891)","883","Lewisham, 00AZ (883)","1/6/2019 - 31/8/2019, Every day, Daily Average",1687,1287,2210
+"891","Newham, 00BB (891)","884","Lewisham, 00AZ (884)","1/6/2019 - 31/8/2019, Every day, Daily Average",1886,1576,2256
+"891","Newham, 00BB (891)","885","Lewisham, 00AZ (885)","1/6/2019 - 31/8/2019, Every day, Daily Average",2038,1675,2478
+"891","Newham, 00BB (891)","886","Lewisham, 00AZ (886)","1/6/2019 - 31/8/2019, Every day, Daily Average",1574,1242,1993
+"891","Newham, 00BB (891)","887","Newham, 00BB (887)","1/6/2019 - 31/8/2019, Every day, Daily Average",968,704,1330
+"891","Newham, 00BB (891)","888","Newham, 00BB (888)","1/6/2019 - 31/8/2019, Every day, Daily Average",740,510,1073
+"891","Newham, 00BB (891)","889","Newham, 00BB (889)","1/6/2019 - 31/8/2019, Every day, Daily Average",647,431,970
+"891","Newham, 00BB (891)","890","Newham, 00BB (890)","1/6/2019 - 31/8/2019, Every day, Daily Average",645,464,895
+"891","Newham, 00BB (891)","891","Newham, 00BB (891)","1/6/2019 - 31/8/2019, Every day, Daily Average",197,96,401
+"891","Newham, 00BB (891)","892","Westminster, 00BK (892)","1/6/2019 - 31/8/2019, Every day, Daily Average",3180,2634,3838
+"891","Newham, 00BB (891)","893","Westminster, 00BK (893)","1/6/2019 - 31/8/2019, Every day, Daily Average",3399,2775,4163
+"891","Newham, 00BB (891)","894","Redbridge, 00BC (894)","1/6/2019 - 31/8/2019, Every day, Daily Average",1301,1016,1664
+"891","Newham, 00BB (891)","895","Redbridge, 00BC (895)","1/6/2019 - 31/8/2019, Every day, Daily Average",1811,1391,2356
+"891","Newham, 00BB (891)","896","Redbridge, 00BC (896)","1/6/2019 - 31/8/2019, Every day, Daily Average",1244,995,1554
+"891","Newham, 00BB (891)","897","Southwark, 00BE (897)","1/6/2019 - 31/8/2019, Every day, Daily Average",937,666,1317
+"891","Newham, 00BB (891)","898","Southwark, 00BE (898)","1/6/2019 - 31/8/2019, Every day, Daily Average",1756,1344,2292
+"891","Newham, 00BB (891)","899","Southwark, 00BE (899)","1/6/2019 - 31/8/2019, Every day, Daily Average",1562,1206,2022
+"891","Newham, 00BB (891)","900","Southwark, 00BE (900)","1/6/2019 - 31/8/2019, Every day, Daily Average",1407,1138,1739
+"891","Newham, 00BB (891)","901","Southwark, 00BE (901)","1/6/2019 - 31/8/2019, Every day, Daily Average",1695,1332,2155
+"891","Newham, 00BB (891)","902","Southwark, 00BE (902)","1/6/2019 - 31/8/2019, Every day, Daily Average",1271,1015,1591
+"891","Newham, 00BB (891)","903","Southwark, 00BE (903)","1/6/2019 - 31/8/2019, Every day, Daily Average",1890,1492,2393
+"891","Newham, 00BB (891)","904","Southwark, 00BE (904)","1/6/2019 - 31/8/2019, Every day, Daily Average",1513,1240,1845
+"891","Newham, 00BB (891)","905","Southwark, 00BE (905)","1/6/2019 - 31/8/2019, Every day, Daily Average",1480,1188,1843
+"891","Newham, 00BB (891)","906","Southwark, 00BE (906)","1/6/2019 - 31/8/2019, Every day, Daily Average",1735,1404,2143
+"891","Newham, 00BB (891)","907","Southwark, 00BE (907)","1/6/2019 - 31/8/2019, Every day, Daily Average",2054,1651,2554
+"891","Newham, 00BB (891)","908","Southwark, 00BE (908)","1/6/2019 - 31/8/2019, Every day, Daily Average",1868,1529,2280
+"891","Newham, 00BB (891)","909","Southwark, 00BE (909)","1/6/2019 - 31/8/2019, Every day, Daily Average",1897,1611,2233
+"891","Newham, 00BB (891)","910","Southwark, 00BE (910)","1/6/2019 - 31/8/2019, Every day, Daily Average",2013,1645,2462
+"891","Newham, 00BB (891)","911","Southwark, 00BE (911)","1/6/2019 - 31/8/2019, Every day, Daily Average",2154,1753,2646
+"891","Newham, 00BB (891)","912","Southwark, 00BE (912)","1/6/2019 - 31/8/2019, Every day, Daily Average",2281,1928,2698
+"891","Newham, 00BB (891)","913","Southwark, 00BE (913)","1/6/2019 - 31/8/2019, Every day, Daily Average",1960,1612,2382
+"891","Newham, 00BB (891)","914","Southwark, 00BE (914)","1/6/2019 - 31/8/2019, Every day, Daily Average",1867,1537,2266
+"891","Newham, 00BB (891)","915","Southwark, 00BE (915)","1/6/2019 - 31/8/2019, Every day, Daily Average",2348,1930,2856
+"891","Newham, 00BB (891)","916","Southwark, 00BE (916)","1/6/2019 - 31/8/2019, Every day, Daily Average",2199,1828,2644
+"891","Newham, 00BB (891)","917","Southwark, 00BE (917)","1/6/2019 - 31/8/2019, Every day, Daily Average",2540,2155,2992
+"891","Newham, 00BB (891)","918","Southwark, 00BE (918)","1/6/2019 - 31/8/2019, Every day, Daily Average",2063,1704,2496
+"891","Newham, 00BB (891)","919","Southwark, 00BE (919)","1/6/2019 - 31/8/2019, Every day, Daily Average",2377,2054,2750
+"891","Newham, 00BB (891)","920","Tower Hamlets, 00BG (920)","1/6/2019 - 31/8/2019, Every day, Daily Average",1370,1126,1666
+"891","Newham, 00BB (891)","921","Tower Hamlets, 00BG (921)","1/6/2019 - 31/8/2019, Every day, Daily Average",1461,1208,1766
+"891","Newham, 00BB (891)","922","Tower Hamlets, 00BG (922)","1/6/2019 - 31/8/2019, Every day, Daily Average",1596,1293,1969
+"891","Newham, 00BB (891)","923","Tower Hamlets, 00BG (923)","1/6/2019 - 31/8/2019, Every day, Daily Average",771,576,1031
+"891","Newham, 00BB (891)","924","Tower Hamlets, 00BG (924)","1/6/2019 - 31/8/2019, Every day, Daily Average",1588,1292,1951
+"891","Newham, 00BB (891)","925","Tower Hamlets, 00BG (925)","1/6/2019 - 31/8/2019, Every day, Daily Average",1281,959,1710
+"891","Newham, 00BB (891)","926","Tower Hamlets, 00BG (926)","1/6/2019 - 31/8/2019, Every day, Daily Average",1342,1048,1718
+"891","Newham, 00BB (891)","927","Tower Hamlets, 00BG (927)","1/6/2019 - 31/8/2019, Every day, Daily Average",1047,710,1541
+"891","Newham, 00BB (891)","928","Tower Hamlets, 00BG (928)","1/6/2019 - 31/8/2019, Every day, Daily Average",1418,1103,1822
+"891","Newham, 00BB (891)","929","Tower Hamlets, 00BG (929)","1/6/2019 - 31/8/2019, Every day, Daily Average",1007,722,1403
+"891","Newham, 00BB (891)","930","Tower Hamlets, 00BG (930)","1/6/2019 - 31/8/2019, Every day, Daily Average",1470,1171,1845
+"891","Newham, 00BB (891)","931","Tower Hamlets, 00BG (931)","1/6/2019 - 31/8/2019, Every day, Daily Average",1141,897,1450
+"891","Newham, 00BB (891)","932","Tower Hamlets, 00BG (932)","1/6/2019 - 31/8/2019, Every day, Daily Average",667,469,946
+"891","Newham, 00BB (891)","933","Tower Hamlets, 00BG (933)","1/6/2019 - 31/8/2019, Every day, Daily Average",933,708,1227
+"891","Newham, 00BB (891)","934","Tower Hamlets, 00BG (934)","1/6/2019 - 31/8/2019, Every day, Daily Average",651,457,926
+"891","Newham, 00BB (891)","935","Tower Hamlets, 00BG (935)","1/6/2019 - 31/8/2019, Every day, Daily Average",1290,1012,1644
+"891","Newham, 00BB (891)","936","Tower Hamlets, 00BG (936)","1/6/2019 - 31/8/2019, Every day, Daily Average",903,691,1179
+"891","Newham, 00BB (891)","937","Tower Hamlets, 00BG (937)","1/6/2019 - 31/8/2019, Every day, Daily Average",709,537,934
+"891","Newham, 00BB (891)","938","Tower Hamlets, 00BG (938)","1/6/2019 - 31/8/2019, Every day, Daily Average",702,515,956
+"891","Newham, 00BB (891)","939","Tower Hamlets, 00BG (939)","1/6/2019 - 31/8/2019, Every day, Daily Average",867,672,1117
+"891","Newham, 00BB (891)","940","Tower Hamlets, 00BG (940)","1/6/2019 - 31/8/2019, Every day, Daily Average",1082,833,1404
+"891","Newham, 00BB (891)","941","Tower Hamlets, 00BG (941)","1/6/2019 - 31/8/2019, Every day, Daily Average",596,439,808
+"891","Newham, 00BB (891)","942","Tower Hamlets, 00BG (942)","1/6/2019 - 31/8/2019, Every day, Daily Average",685,502,933
+"891","Newham, 00BB (891)","943","Tower Hamlets, 00BG (943)","1/6/2019 - 31/8/2019, Every day, Daily Average",794,626,1006
+"891","Newham, 00BB (891)","945","Waltham Forest, 00BH (945)","1/6/2019 - 31/8/2019, Every day, Daily Average",1818,1609,2054
+"891","Newham, 00BB (891)","946","Waltham Forest, 00BH (946)","1/6/2019 - 31/8/2019, Every day, Daily Average",1718,1312,2248
+"891","Newham, 00BB (891)","948","Waltham Forest, 00BH (948)","1/6/2019 - 31/8/2019, Every day, Daily Average",1642,1459,1847
+"891","Newham, 00BB (891)","949","Waltham Forest, 00BH (949)","1/6/2019 - 31/8/2019, Every day, Daily Average",1450,1185,1773
+"891","Newham, 00BB (891)","950","Waltham Forest, 00BH (950)","1/6/2019 - 31/8/2019, Every day, Daily Average",1320,1068,1631
+"891","Newham, 00BB (891)","951","Waltham Forest, 00BH (951)","1/6/2019 - 31/8/2019, Every day, Daily Average",1350,1096,1661
+"891","Newham, 00BB (891)","952","Waltham Forest, 00BH (952)","1/6/2019 - 31/8/2019, Every day, Daily Average",1407,1139,1736
+"891","Newham, 00BB (891)","953","Waltham Forest, 00BH (953)","1/6/2019 - 31/8/2019, Every day, Daily Average",1302,1042,1625
+"891","Newham, 00BB (891)","954","Waltham Forest, 00BH (954)","1/6/2019 - 31/8/2019, Every day, Daily Average",1547,1257,1903
+"891","Newham, 00BB (891)","955","Waltham Forest, 00BH (955)","1/6/2019 - 31/8/2019, Every day, Daily Average",1736,1415,2129
+"891","Newham, 00BB (891)","956","Waltham Forest, 00BH (956)","1/6/2019 - 31/8/2019, Every day, Daily Average",1503,1184,1906
+"891","Newham, 00BB (891)","957","Waltham Forest, 00BH (957)","1/6/2019 - 31/8/2019, Every day, Daily Average",1822,1478,2244
+"891","Newham, 00BB (891)","958","Waltham Forest, 00BH (958)","1/6/2019 - 31/8/2019, Every day, Daily Average",1295,1036,1618
+"891","Newham, 00BB (891)","959","Waltham Forest, 00BH (959)","1/6/2019 - 31/8/2019, Every day, Daily Average",1716,1403,2098
+"891","Newham, 00BB (891)","960","Waltham Forest, 00BH (960)","1/6/2019 - 31/8/2019, Every day, Daily Average",1796,1456,2214
+"891","Newham, 00BB (891)","961","Waltham Forest, 00BH (961)","1/6/2019 - 31/8/2019, Every day, Daily Average",1763,1403,2215
+"891","Newham, 00BB (891)","962","Waltham Forest, 00BH (962)","1/6/2019 - 31/8/2019, Every day, Daily Average",1495,1177,1897
+"891","Newham, 00BB (891)","963","Waltham Forest, 00BH (963)","1/6/2019 - 31/8/2019, Every day, Daily Average",1729,1338,2234
+"891","Newham, 00BB (891)","964","Waltham Forest, 00BH (964)","1/6/2019 - 31/8/2019, Every day, Daily Average",1341,950,1891
+"891","Newham, 00BB (891)","965","Waltham Forest, 00BH (965)","1/6/2019 - 31/8/2019, Every day, Daily Average",1493,1180,1888
+"891","Newham, 00BB (891)","966","Wandsworth, 00BJ (966)","1/6/2019 - 31/8/2019, Every day, Daily Average",4006,3111,5157
+"891","Newham, 00BB (891)","967","Wandsworth, 00BJ (967)","1/6/2019 - 31/8/2019, Every day, Daily Average",3139,2516,3915
+"891","Newham, 00BB (891)","969","Wandsworth, 00BJ (969)","1/6/2019 - 31/8/2019, Every day, Daily Average",3680,2934,4614
+"891","Newham, 00BB (891)","970","Wandsworth, 00BJ (970)","1/6/2019 - 31/8/2019, Every day, Daily Average",3832,3037,4834
+"891","Newham, 00BB (891)","971","Wandsworth, 00BJ (971)","1/6/2019 - 31/8/2019, Every day, Daily Average",3522,2911,4260
+"891","Newham, 00BB (891)","972","Wandsworth, 00BJ (972)","1/6/2019 - 31/8/2019, Every day, Daily Average",3781,3073,4650
+"891","Newham, 00BB (891)","973","Wandsworth, 00BJ (973)","1/6/2019 - 31/8/2019, Every day, Daily Average",3549,2937,4287
+"891","Newham, 00BB (891)","974","Westminster, 00BK (974)","1/6/2019 - 31/8/2019, Every day, Daily Average",3280,2651,4057
+"891","Newham, 00BB (891)","975","Westminster, 00BK (975)","1/6/2019 - 31/8/2019, Every day, Daily Average",3340,2685,4153
+"891","Newham, 00BB (891)","976","Westminster, 00BK (976)","1/6/2019 - 31/8/2019, Every day, Daily Average",3220,2534,4091
+"891","Newham, 00BB (891)","977","Westminster, 00BK (977)","1/6/2019 - 31/8/2019, Every day, Daily Average",3109,2427,3981
+"891","Newham, 00BB (891)","978","Westminster, 00BK (978)","1/6/2019 - 31/8/2019, Every day, Daily Average",3153,2478,4010
+"891","Newham, 00BB (891)","979","Westminster, 00BK (979)","1/6/2019 - 31/8/2019, Every day, Daily Average",3291,2610,4148
+"891","Newham, 00BB (891)","980","Westminster, 00BK (980)","1/6/2019 - 31/8/2019, Every day, Daily Average",2422,1870,3136
+"891","Newham, 00BB (891)","981","Westminster, 00BK (981)","1/6/2019 - 31/8/2019, Every day, Daily Average",2844,2229,3627
+"891","Newham, 00BB (891)","982","Westminster, 00BK (982)","1/6/2019 - 31/8/2019, Every day, Daily Average",2606,2013,3372
