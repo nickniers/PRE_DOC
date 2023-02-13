@@ -175,13 +175,39 @@ for (i in 1:11){
 
 # read uber data and borough shapefile
 uber = read_csv("RAW/uber.csv")
-boroughs = st_read("RAW/shapefiles/boundaries_fixed_frame.shp", stringsAsFactors = FALSE)
+boroughs = st_read("RAW/shapefiles/london_MSOA_repaired.shp", stringsAsFactors = FALSE)
 
 # rename variables to obtain common ID variable and merge dataset with shapefile
 names(uber)[4] = "ID"
 names(boroughs)[11] = "ID"
 uber = merge(boroughs, uber, by = "ID", all.x = TRUE)
 
-imported_raster= raster("/Users/nickniers/Desktop/Uni/master_EME/EC427 - labor/Essay/__LCY/arcgis/london_raw/raw2.tif")
-hs = hillshader(imported_raster)
+# load prepared QGis hillshader as backround picture
+hillshade = readPNG("plots/london_hillshade.png") 
 
+# plot the travel times commencing from London City Airport
+uber_plot <- ggplot() +
+  background_image(hillshade)+
+  geom_sf(data = uber, aes(fill = uber$'Mean Travel Time (Seconds)'/60), col = "gray95", linewidth = 0.1, alpha = 0.5) +
+  scale_fill_gradient2(low = NA, high = "violetred4", na.value = "gray40")+
+  coord_sf(xlim = c(), ylim = c(), crs = st_crs("EPSG:27700"), expand = FALSE) +
+  theme_void() + theme(legend.position = "none")  # + theme(
+  #text = element_text(family = "CMU Serif Roman", color = "#22211d"),
+  #legend.background = element_rect(fill = NA, color = NA),
+  #legend.direction = "vertical",
+  #legend.position = "bottom",
+  #legend.margin=margin(0,0,0,0),
+  #legend.box.margin=margin(-5,-5,-5,-5)
+  #) 
+uber_plot
+hillshade
+
+# extract legend from plot for post-processing
+leg <- get_legend(uber_plot)
+as_ggplot(leg)
+
+# save result 
+ggsave(filename="uber.jpg", plot=uber_plot, device="jpg",
+       path="plots", height=4000, width=6000, units="px", dpi=600)
+
+################################################################################
