@@ -37,5 +37,11 @@ Code: Lines 100-187
 Code: Lines 190 - 235
 ![uber](RESULTS/uber.png)
 
+# Republican vote share and Covid-19 related casualties
+Based on granular electoral- and COVID-19 data from Wisconsin, I explored the causal relation- ship between the pandemic and political attitudes in the US. Using proximity and exposure to conservative-christian private schools as a source of exogenous variation, I found significant links between COVID-19 casualties and republican electorate.
+
+Code: 242 - 300
+![Employees](RESULTS/employees.jpg)
+
 
 
