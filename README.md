@@ -22,5 +22,5 @@ school.sav: https://nces.ed.gov/surveys/pss/tableswhi.asp
 uber.csv: https://movement.uber.com
 
 4. Results:
-The results folder contains the final, post-processed plots which are used in the project. Overall there are 6 plots for two different projects. 
+The results' folder contains the final, post-processed plots which are used in the project. Overall, there are 6 plots for two different projects. 
 
