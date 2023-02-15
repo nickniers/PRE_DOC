@@ -1,7 +1,7 @@
 # PRE DOC
 
 # Repository Structure
-This is an overview of data (spatial) visualisation examples in support of my application as a pre-doctoral Research Assistant. The repository is structured in the following way: 
+This is an overview of selected (spatial) data visualisation examples in support of my application as a pre-doctoral Research Assistant. The repository is structured in the following way: 
 
 1. coding_sample:
 This file consists of all the relevant code necessary to replicate the plots within this repository. In order to reproduce the results the working directory on your machine should be changed to this repository. Please note that some of the raw R plots are post-processed using affinity designer. Therefore the produced output is not necessarily final. 
