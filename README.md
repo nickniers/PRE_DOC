@@ -24,3 +24,6 @@ uber.csv: https://movement.uber.com
 4. Results:
 The results' folder contains the final, post-processed plots which are used in the project. Overall, there are 6 plots for two different projects. 
 
+![Floorspace](RESULTS/floorspace.gif)
+
+
