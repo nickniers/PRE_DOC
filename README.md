@@ -44,5 +44,8 @@ Code: 242 - 300 \
 LHS for tracts, RHS interpolated to more granual wards
 ![Election](RESULTS/election.png)
 
+Code: 303 - 392
+![School](RESULTS/schools.png)
+
 
 
