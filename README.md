@@ -26,6 +26,9 @@ The results' folder contains the final, post-processed plots which are used in t
 
 In the first project, I explore the installment of London City Airport as an accessibility shock to the finance and insurance labor market in central London. I analyze how firm sorting within cities is affected by proximity considerations and international market access. In doing so, I extend upon the known gravitational forces which cause local agglomerations. By identifying key determinants behind the spatial decision of a firm, I add to the literature concerning the geography of firm.
 
+Code: Lines 57-97
+![Employees](RESULTS/employees.jpg)
+
 Code: Lines 100-187
 ![Floorspace](RESULTS/floorspace.gif)
 
