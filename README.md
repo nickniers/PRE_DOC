@@ -47,5 +47,8 @@ LHS for tracts, RHS interpolated to more granual wards
 Code: 303 - 392
 ![School](RESULTS/schools.png)
 
+Code: 405 -
+![Covid](RESULTS/covid.png)
+
 
 
