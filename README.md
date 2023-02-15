@@ -12,8 +12,12 @@ This folder consists of all the intermediate plots used in producing the final r
 This folder consists of all the datasets which are used in order to produce the results. In addition, this folder also contains the relevant shapefiles necessary to produce the results. In case you are interested in the source of these datasets, please refer to the following sources for each dataset (date: 15.02.23): 
 
 covid.csv: https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-historical-data-by-census-tract-v2/explore
+
 employees.csv: https://data.london.gov.uk/dataset/workplace-employment-industry-borough
+
 floorspace.csv: https://www.gov.uk/government/statistics/non-domestic-rating-stock-of-properties-including-business-floorspace-2021
+
 school.sav: https://nces.ed.gov/surveys/pss/tableswhi.asp
+
 uber.csv: https://movement.uber.com
 
