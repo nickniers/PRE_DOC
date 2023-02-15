@@ -405,7 +405,24 @@ rm(school, school_plot, tract_pos, tracts, in_tract, pos, pos_new, pri_dis, inde
 
 ### 2. Republican vote share and COVID-19 related casualties ###################
 
-### 2.3 Spatial distribution of COVID-19-Casualties in Wiscconsin 
+### 2.3 Spatial distribution of COVID-19-Casualties in Wisconsin 
+
+# load Covid data
+cases = read.csv("RAW/covid.csv")
+
+# extract relevant variables for the time 2020-2021 time period (note that this
+# is commented out as the dataset has been pre-modified in order to not exceed a
+# certain size)
+#cases = cases[-c(3:5,7:18,22:129)]
+#cases = cases[cases$Date == "12/31/2021",]
+#cases = cases[,c(1,2,5)]
+#write.csv(cases, "RAW/covid.csv", row.names=FALSE)
+
+
+# merge casualties numbers with tract shapefile
+tracts = st_read("RAW/shapefiles/cb_2018_55_tract_500k.shp", stringsAsFactors = FALSE)
+tracts$ID = seq.int(nrow(tracts))
+tracts = merge(tracts, cases, by = "GEOID", all.x = TRUE)
 
 
 
