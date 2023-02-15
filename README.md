@@ -41,7 +41,7 @@ Code: Lines 190 - 235
 Based on granular electoral- and COVID-19 data from Wisconsin, I explored the causal relation- ship between the pandemic and political attitudes in the US. Using proximity and exposure to conservative-christian private schools as a source of exogenous variation, I found significant links between COVID-19 casualties and republican electorate.
 
 Code: 242 - 300
-![Election](RESULTS/election.jpg)
+![Election](RESULTS/election.png)
 
 
 
