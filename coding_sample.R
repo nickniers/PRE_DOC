@@ -1,23 +1,25 @@
 ################################################################################
-
+################################################################################
 ##################  Coding Sample - Pre-doctoral Position ######################
+################################################################################
+################################################################################
 
-# This coding sample is part of a larger project I undertake at LSE. Using the 
-# installment of London City Airport (LCY) as an accessibility shock to the finance 
-# and insurance labor market in central London, I analyze how firm sorting 
-# within cities is affected by proximity considerations and international market 
-# access. In doing so, I have created several descriptive visualizations which
-# summarize the shift of the finance industry to a certain part of the city
-# (Tower Hamlets in eastern London), the increasing relevance of LCY for business
-# travel in London, and travel times throughout the city by different means of
-# tansport. The coding sample is structured as follows:
+### Structure: 
 
-# 1.  Shift of the Industry to Tower Hamlets 
-#     1.1 Number of employees in finance and insurance positions by borough
-#     1.2 Relevance of Tower Hamlets as measured by space occupied by offices 
+### 1. Intracity Labor Markets: A counterfactual Analysis of LCY
+# 1.1. Number of employees in finance and insurance positions by borough
+# 1.2. Relevance of Tower Hamlets as measured by space occupied by offices
+# 1.3. Distance to London City Airport 
 
-# 2.  Travel times commencing from LCY 
-#     2.1 Uber Data 
+### 2. Republican vote share and COVID-19 related casualties
+# 2.1. 2016 General election results in Wisconsin 
+# 2.2. Proximity to conservative christian private school 
+# 2.3. Spatial distribution of COVID-19-Casualties in Wiscconsin 
+
+################################################################################
+################################################################################
+################################################################################
+################################################################################
 ################################################################################
 
 ### Preliminaries
@@ -40,12 +42,17 @@ library(sf)
 library(rgdal)
 library(maptools)
 library(reshape2)
+# install.packages("devtools")
+# devtools::install_github("tylermorganwall/rayshader")
 library(rayshader)
 library(grid)
 library(png) 
 # remotes::install_github("pierreroudier/hillshader")
 library(hillshader)
+library(areal)
 
+
+################################################################################
 ################################################################################
 
 ### 1. Shift of the Industry to Tower Hamlets ##################################
@@ -85,6 +92,10 @@ employees_plot + theme(text = element_text(size=rel(5)), legend.text = element_t
 ggsave(filename="employees.jpg", plot=employees_plot, device="jpg",
        path="plots", height=4000, width=6000, units="px", dpi=600)
 
+# remove items
+rm(employees, employees_plot)
+
+################################################################################
 ################################################################################
 
 ### 1. Shift of the Industry to Tower Hamlets ##################################
@@ -171,7 +182,15 @@ for (i in 1:11){
   render_snapshot(paste("plots/LSOA/fs_", i, ".png"), webshot = TRUE, width = 5000, heigth = 5000, clear = TRUE)
 }
 
+# remove items
+rm(fs, LSOA, backround, LSOA_plot, plot)
+
 ################################################################################
+################################################################################
+
+### 1. Shift of the Industry to Tower Hamlets ##################################
+
+### 1.3. Distance to London City Airport 
 
 # read uber data and borough shapefile
 uber = read_csv("RAW/uber.csv")
@@ -202,12 +221,193 @@ uber_plot <- ggplot() +
 uber_plot
 hillshade
 
-# extract legend from plot for post-processing
+# extract legend from plot for post-processing (note in order to extract the legend
+# the plot code above has to include the theme lines for the legend)
 leg <- get_legend(uber_plot)
 as_ggplot(leg)
 
 # save result 
 ggsave(filename="uber.jpg", plot=uber_plot, device="jpg",
-       path="plots", height=4000, width=6000, units="px", dpi=600)
+       path="plots", height=2000, width=3000, units="px", dpi=600)
+
+# remove items
+rm(uber, hillshade, backround, uber_plot, leg)
 
 ################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+
+### 2. Republican vote share and COVID-19 related casualties ###################
+
+### 2.1 2016 General election results in Wisconsin 
+
+# load shaded relief of Wisconsin for nice plots (pre-processed using QGis)
+relief = raster("plots/WI_map.tif")
+relief_spdf = as(relief, "SpatialPixelsDataFrame")
+relief = as.data.frame(relief_spdf)
+relief$WI_map[relief$layer == 0] = 256
+rm(relief_spdf)
+
+# load election shapefile containing results of the 2016 US general election for WI
+election = st_read("RAW/shapefiles/WI.shp", stringsAsFactors = FALSE)[,c(1,17,48,49,85:88)]
+
+# transform to appropiate projection
+election = st_transform(election, 6893)
+
+# generate relative share of people who voted for republican/democratic candidate
+election$share_rep = election$PRES16R / (election$PRES16R + election$PRES16D)
+election$share_dem = election$PRES16D / (election$PRES16R + election$PRES16D)
+
+# generate dummy based on which share is higher 
+election$dummy = ifelse(election$share_rep >= election$share_dem, 1, 0)
+
+# generate magnitude variable to indicate how "strongly" a county is dem or rep
+election$mag = ((election$share_rep - 0.5)*election$dummy + (election$share_dem - 0.5)*(election$dummy-1))+0.5
+
+# plot the results 
+election_plot <- ggplot() +
+  ### tracts
+  geom_sf(data = election, aes(fill = mag), size = 0, col = NA) +
+  coord_sf(xlim = c(), ylim = c(), expand = FALSE) +
+  scale_fill_gradientn(values=c(0, 0.5, 1), colours=c("slateblue4", "gray96", "violetred4")) +
+  ### relief
+  scale_alpha(name = "", range = c(1, 0), guide = "none") +
+  geom_raster(data = relief, aes_string(x = "x", y = "y", alpha = "layer")) +
+  theme_void() + theme(legend.position = "none") # + theme(
+  #text = element_text(family = "CMU Serif Roman", color = "#22211d"),
+  #legend.background = element_rect(fill = NA, color = NA),
+  #legend.direction = "vertical",
+  #legend.position = "bottom",
+  #legend.margin=margin(0,0,0,0),
+  #legend.box.margin=margin(-5,-5,-5,-5)
+  #) 
+election_plot
+
+# extract legend from plot for post-processing (note in order to extract the legend
+# the plot code above has to include the theme lines for the legend)
+leg <- get_legend(election_plot)
+as_ggplot(election_plot)
+
+# save result 
+ggsave(filename="election_tracts.jpg", plot=election_plot, device="jpg",
+       path="plots", height=2000, width=3000, units="px", dpi=600)
+
+# remove items
+rm(election, election_plot)
+
+################################################################################
+################################################################################
+
+### 2. Republican vote share and COVID-19 related casualties ###################
+
+### 2.2 Proximity to conservative christian private school 
+
+# load school data 
+school = read.spss("RAW/school.sav", to.data.frame=TRUE)
+
+# extract all WI private schools which are labeled as "Other religious, conservative Christian"
+school = school[school$PSTANSI == 55,]
+school = school[school$TYPOLOGY == 4,]
+
+# extract the coordinates of these schools and transform them to a suited projection
+pos = data.frame(cbind(school$LONGITUDE18, school$LATITUDE18))
+pos_new = st_as_sf(pos, coords = c('X1', 'X2'))
+pos_new = st_set_crs(pos_new, CRS("+init=epsg:4326"))
+
+# read in tracts shapefile (smaller entity than counties)
+tracts = st_read("RAW/shapefiles/cb_2018_55_tract_500k.shp", stringsAsFactors = FALSE)
+tracts$ID = seq.int(nrow(tracts))
+
+# create indicator which indicates tracts with conservative schools
+tracts = st_transform(tracts, 4326)
+in_tract = st_within(pos_new,tracts)
+in_tract = as.data.frame(in_tract)[,2]
+in_tract = cbind(in_tract, pos)
+in_tract$Ind = 1
+names(in_tract) = c("ID", "X1", "X2", "Ind")
+
+# merge indicator with initial tracts dataset
+tracts = merge(tracts, in_tract, by = "ID", all.x = TRUE)
+tracts$Ind[is.na(tracts$Ind)] = 0
+
+# determine centroids of each census tract:
+tract_pos = st_point_on_surface(tracts)
+tract_pos = tract_pos$geometry
+tract_pos =  as.data.frame(st_coordinates(tract_pos))
+tracts = cbind(tracts, tract_pos)
+
+# transform tracts dataset to final projection (relevant for maps) 
+tracts = st_transform(tracts, 6893)
+
+# create vector with the index of tracts with con.chr.pri.schools
+index = tracts[tracts$Ind == 1,]
+index$names <- rownames(index)
+index = as.numeric(index$names)
+
+# add column to data frame with distance to nearest conservative private school
+pri_dis = matrix(data = NA, nrow = 1400, ncol = 1400)
+for (i in 1:length(tract_pos[,1])){
+  pri_dis[,i] = spDistsN1(as.matrix(tract_pos), as.matrix(tract_pos[i,]), longlat = FALSE)
+}
+
+# limit dataframe to tracts within the index vector
+pri_dis = as.data.frame(pri_dis[c(index),])
+rownames(pri_dis) = c(paste(index,sep=" "))
+
+# coordinates to "real" distance transformation
+pri_dis = as.data.frame((2 * pi * 6371 * pri_dis)/360)
+
+# find nearest private school for each tract
+pri_dis_m = apply(pri_dis,2,min)
+names(pri_dis_m) = c("pri_dis_m")
+
+# transform distance to values between 0 and 1
+pri_dis_m = ((pri_dis_m - min(pri_dis_m))/(max(pri_dis_m)-min(pri_dis_m)))
+tracts = cbind(tracts, pri_dis_m)
+
+school_plot <- ggplot() +
+  ### tracts
+  geom_sf(data = tracts, aes(fill = pri_dis_m), col = NA) +
+  scale_fill_gradientn(values=c(0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 1), colours=c("dodgerblue4", "dodgerblue3", "dodgerblue2", "dodgerblue1", "deepskyblue2", "deepskyblue1", "gray90"), guide = guide_colourbar(
+    barwidth = 15, barheight = 0.5, title.position = 'bottom', reverse = T, title = "distance private school", title.hjust = 0.5,
+    label.position = "top")) +
+  coord_sf(xlim = c(), ylim = c(), expand = FALSE) +
+  ### schools 
+  geom_sf(data = pos_new, size = 0.05, colour = "violetred4") +
+  ### relief
+  scale_alpha(name = "", range = c(1, 0), guide = "none") +
+  geom_raster(data = relief, aes_string(x = "x", y = "y", alpha = "layer")) +
+  theme_void() + theme(legend.position = "none") # + theme(
+  #text = element_text(family = "CMU Serif Roman", color = "#22211d"),
+  #legend.background = element_rect(fill = NA, color = NA),
+  #legend.direction = "vertical",
+  #legend.position = "bottom",
+  #legend.margin=margin(0,0,0,0),
+  #legend.box.margin=margin(-5,-5,-5,-5)
+  #) 
+school_plot
+
+# extract legend from plot for post-processing (note in order to extract the legend
+# the plot code above has to include the theme lines for the legend)
+leg <- get_legend(school_plot)
+as_ggplot(school_plot)
+
+# save result 
+ggsave(filename="school.jpg", plot=school_plot, device="jpg",
+       path="plots", height=2000, width=3000, units="px", dpi=600)
+rm(school, school_plot, tract_pos, tracts, in_tract, pos, pos_new, pri_dis, index, pri_dis_m, i)
+
+################################################################################
+################################################################################
+
+### 2. Republican vote share and COVID-19 related casualties ###################
+
+### 2.3 Spatial distribution of COVID-19-Casualties in Wiscconsin 
+
+
+
+
+
