@@ -12,7 +12,7 @@ This folder consists of all the intermediate plots used in producing the final r
 3. RAW:
 This folder consists of all the datasets which are used in order to produce the results. In addition, this folder also contains the relevant shapefiles necessary to produce the results. In case you are interested in the source of these datasets, please refer to the following sources for each dataset (date last checked: 15.02.23): 
 
-covid.csv: https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-historical-data-by-census-tract-v2/explore
+covid.csv: https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-historical-data-by-census-tract-v2/explore (please note that a modified version of the covid dataset is stored in this repository. The original dataset can be found on the indicated website)
 
 employees.csv: https://data.london.gov.uk/dataset/workplace-employment-industry-borough
 
