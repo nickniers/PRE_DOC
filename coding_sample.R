@@ -268,7 +268,7 @@ election$dummy = ifelse(election$share_rep >= election$share_dem, 1, 0)
 election$mag = ((election$share_rep - 0.5)*election$dummy + (election$share_dem - 0.5)*(election$dummy-1))+0.5
 
 # plot the results 
-election_plot <- ggplot() +
+election_plot = ggplot() +
   ### tracts
   geom_sf(data = election, aes(fill = mag), size = 0, col = NA) +
   coord_sf(xlim = c(), ylim = c(), expand = FALSE) +
@@ -288,7 +288,7 @@ election_plot
 
 # extract legend from plot for post-processing (note in order to extract the legend
 # the plot code above has to include the theme lines for the legend)
-leg <- get_legend(election_plot)
+leg = get_legend(election_plot)
 as_ggplot(election_plot)
 
 # save result 
@@ -368,7 +368,7 @@ names(pri_dis_m) = c("pri_dis_m")
 pri_dis_m = ((pri_dis_m - min(pri_dis_m))/(max(pri_dis_m)-min(pri_dis_m)))
 tracts = cbind(tracts, pri_dis_m)
 
-school_plot <- ggplot() +
+school_plot = ggplot() +
   ### tracts
   geom_sf(data = tracts, aes(fill = pri_dis_m), col = NA) +
   scale_fill_gradientn(values=c(0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 1), colours=c("dodgerblue4", "dodgerblue3", "dodgerblue2", "dodgerblue1", "deepskyblue2", "deepskyblue1", "gray90"), guide = guide_colourbar(
@@ -392,7 +392,7 @@ school_plot
 
 # extract legend from plot for post-processing (note in order to extract the legend
 # the plot code above has to include the theme lines for the legend)
-leg <- get_legend(school_plot)
+leg = get_legend(school_plot)
 as_ggplot(school_plot)
 
 # save result 
@@ -418,11 +418,45 @@ cases = read.csv("RAW/covid.csv")
 #cases = cases[,c(1,2,5)]
 #write.csv(cases, "RAW/covid.csv", row.names=FALSE)
 
+# compute percentage death toll
+cases$per = (cases$DTH_CUM_CP / cases$population) * 100
 
 # merge casualties numbers with tract shapefile
 tracts = st_read("RAW/shapefiles/cb_2018_55_tract_500k.shp", stringsAsFactors = FALSE)
 tracts$ID = seq.int(nrow(tracts))
+tracts = st_transform(tracts, 6893)
 tracts = merge(tracts, cases, by = "GEOID", all.x = TRUE)
+
+# plot results
+covid_plot = ggplot() +
+  ### tracts
+  geom_sf(data = tracts, aes(fill = per), col = NA) +
+  scale_fill_viridis_c(begin = 0, end = 0.75, alpha = .65, option = "rocket", direction = -1) +
+  coord_sf(xlim = c(), ylim = c(), expand = FALSE) +
+  ### relief
+  scale_alpha(name = "", range = c(1, 0), guide = "none") +
+  geom_raster(data = relief, aes_string(x = "x", y = "y", alpha = "layer")) +
+  theme_void() + theme(legend.position = "none") # + theme(
+  #text = element_text(family = "CMU Serif Roman", color = "#22211d"),
+  #legend.background = element_rect(fill = NA, color = NA),
+  #legend.direction = "vertical",
+  #legend.position = "bottom",
+  #legend.margin=margin(0,0,0,0),
+  #legend.box.margin=margin(-5,-5,-5,-5)
+  #) 
+covid_plot
+
+# extract legend from plot for post-processing (note in order to extract the legend
+# the plot code above has to include the theme lines for the legend)
+leg = get_legend(covid_plot)
+as_ggplot(covid_plot)
+
+# save result 
+ggsave(filename="covid.jpg", plot=covid_plot, device="jpg",
+       path="plots", height=2000, width=3000, units="px", dpi=600)
+rm(cases, covid_plot, tracts, relief)
+
+
 
 
 
