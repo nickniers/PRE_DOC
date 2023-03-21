@@ -1,4 +1,4 @@
-# PRE DOC
+# Coding Overview
 
 # Repository Structure
 This is an overview of selected (spatial) data visualisation examples in support of my application as a pre-doctoral Research Assistant. The repository is structured in the following way: 
