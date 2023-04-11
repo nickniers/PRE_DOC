@@ -1,4 +1,4 @@
-# PRE DOC
+# Coding Overview
 
 # Repository Structure
 This is an overview of selected (spatial) data visualisation examples in support of my application as a pre-doctoral Research Assistant. The repository is structured in the following way: 
@@ -47,7 +47,7 @@ LHS for tracts, RHS interpolated to more granual wards
 Code: 303 - 392
 ![School](RESULTS/schools.png)
 
-Code: 405 -
+Code: 405 - 457
 ![Covid](RESULTS/covid.png)
 
 
