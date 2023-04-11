@@ -173,7 +173,7 @@ for (i in 1:11){
   # transfrom into 3D plot
   plot = plot_gg(LSOA_plot, multicore = TRUE, width = 7, height = 7,
         scale = 400, windowsize = c(2000, 2000), zoom = 0.5, phi = 60, theta = 45,
-        solid = FALSE, sunangle = 200, solidcolor = "white", solidlinecolor = "white", background = "white",
+        solid = FALSE, sunangle = 200, solidcolor = "gray98", solidlinecolor = "white", background = "white",
         triangulate = TRUE
         )
   
